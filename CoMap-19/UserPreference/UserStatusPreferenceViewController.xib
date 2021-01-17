@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16095" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16084.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UserStatusPreferenceViewController" customModule="Aarogya_Setu" customModuleProvider="target">
+            <connections>
+                <outlet property="alwaysApproveButton" destination="KBN-Vv-baW" id="qub-jd-Csw"/>
+                <outlet property="appIconImageView" destination="KPt-bT-FsT" id="tZp-6D-76v"/>
+                <outlet property="appNameLabel" destination="wEc-lk-EiM" id="19l-LM-uU4"/>
+                <outlet property="askForApprovalButton" destination="e1l-bc-lxA" id="mEC-fD-ST6"/>
+                <outlet property="blockButton" destination="ohg-Jl-nJn" id="ILw-Pb-QNg"/>
+                <outlet property="containerView" destination="H45-cn-6vp" id="Ifd-G2-cJk"/>
+                <outlet property="removeButton" destination="kUK-So-gQH" id="8o8-mh-j8S"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H45-cn-6vp" customClass="RoundCorners" customModule="Aarogya_Setu" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="527" width="414" height="369"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="GYO-2M-I9h">
+                            <rect key="frame" x="0.0" y="81" width="414" height="248"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KBN-Vv-baW">
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="qfO-th-Zj9"/>
+                                    </constraints>
+                                    <state key="normal" title="Button"/>
+                                    <connections>
+                                        <action selector="alwaysApproveButtonTapped:" destination="-1" eventType="touchUpInside" id="soY-pD-6mj"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e1l-bc-lxA">
+                                    <rect key="frame" x="0.0" y="66" width="414" height="50"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="8vg-hQ-5Xp"/>
+                                    </constraints>
+                                    <state key="normal" title="Button"/>
+                                    <connections>
+                                        <action selector="askForApprovalButtonTapped:" destination="-1" eventType="touchUpInside" id="IxO-Os-E1k"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ohg-Jl-nJn">
+                                    <rect key="frame" x="0.0" y="132" width="414" height="50"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="bFM-I9-v3J"/>
+                                    </constraints>
+                                    <state key="normal" title="Button"/>
+                                    <connections>
+                                        <action selector="blockButtonTapped:" destination="-1" eventType="touchUpInside" id="aRZ-Xf-aTU"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUK-So-gQH">
+                                    <rect key="frame" x="0.0" y="198" width="414" height="50"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="50" id="wkP-ZZ-N98"/>
+                                    </constraints>
+                                    <state key="normal" title="Button"/>
+                                    <connections>
+                                        <action selector="removeButtonTapped:" destination="-1" eventType="touchUpInside" id="FDo-74-pVu"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                        </stackView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2mS-14-bFs">
+                            <rect key="frame" x="0.0" y="64" width="414" height="1"/>
+                            <color key="backgroundColor" red="0.90588235294117647" green="0.90588235294117647" blue="0.90588235294117647" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="QUE-Jc-6wk"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gSp-nD-X7F">
+                            <rect key="frame" x="172" y="20" width="70" height="24"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="KPt-bT-FsT">
+                                    <rect key="frame" x="0.0" y="0.0" width="24" height="24"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="24" id="66D-60-K8R"/>
+                                        <constraint firstAttribute="height" constant="24" id="RW7-t9-aUb"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wEc-lk-EiM">
+                                    <rect key="frame" x="28" y="2" width="42" height="20.5"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                            <constraints>
+                                <constraint firstItem="KPt-bT-FsT" firstAttribute="leading" secondItem="gSp-nD-X7F" secondAttribute="leading" id="Fmd-pH-Et2"/>
+                                <constraint firstItem="KPt-bT-FsT" firstAttribute="top" secondItem="gSp-nD-X7F" secondAttribute="top" id="KN0-dS-bff"/>
+                                <constraint firstItem="wEc-lk-EiM" firstAttribute="leading" secondItem="KPt-bT-FsT" secondAttribute="trailing" constant="4" id="Ldy-Ba-98a"/>
+                                <constraint firstAttribute="trailing" secondItem="wEc-lk-EiM" secondAttribute="trailing" id="RtJ-Si-1mb"/>
+                                <constraint firstItem="wEc-lk-EiM" firstAttribute="centerY" secondItem="KPt-bT-FsT" secondAttribute="centerY" id="VaJ-HC-Pnh"/>
+                                <constraint firstAttribute="bottom" secondItem="KPt-bT-FsT" secondAttribute="bottom" id="qhc-O8-qQ7"/>
+                            </constraints>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fPe-cs-M4Y">
+                            <rect key="frame" x="24" y="20" width="24" height="24"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="24" id="SHV-2G-czC"/>
+                                <constraint firstAttribute="height" constant="24" id="woJ-wJ-Bc3"/>
+                            </constraints>
+                            <state key="normal" image="cross_button"/>
+                            <connections>
+                                <action selector="crossButtonTapped:" destination="-1" eventType="touchUpInside" id="qJP-FS-rgQ"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="2mS-14-bFs" firstAttribute="leading" secondItem="H45-cn-6vp" secondAttribute="leading" id="0zI-af-3MN"/>
+                        <constraint firstItem="fPe-cs-M4Y" firstAttribute="leading" secondItem="H45-cn-6vp" secondAttribute="leading" constant="24" id="C61-20-CWb"/>
+                        <constraint firstItem="2mS-14-bFs" firstAttribute="top" secondItem="gSp-nD-X7F" secondAttribute="bottom" constant="20" id="CYE-g6-ge7"/>
+                        <constraint firstItem="gSp-nD-X7F" firstAttribute="centerX" secondItem="H45-cn-6vp" secondAttribute="centerX" id="Quw-CL-fey"/>
+                        <constraint firstAttribute="trailing" secondItem="GYO-2M-I9h" secondAttribute="trailing" id="SML-n3-VR0"/>
+                        <constraint firstItem="GYO-2M-I9h" firstAttribute="top" secondItem="2mS-14-bFs" secondAttribute="bottom" constant="16" id="aYc-t4-oVK"/>
+                        <constraint firstItem="fPe-cs-M4Y" firstAttribute="centerY" secondItem="gSp-nD-X7F" secondAttribute="centerY" id="dFm-rI-Tjm"/>
+                        <constraint firstItem="gSp-nD-X7F" firstAttribute="top" secondItem="H45-cn-6vp" secondAttribute="top" constant="20" id="dKi-WJ-PhD"/>
+                        <constraint firstAttribute="bottom" secondItem="GYO-2M-I9h" secondAttribute="bottom" constant="40" id="fAy-kj-EnP"/>
+                        <constraint firstItem="GYO-2M-I9h" firstAttribute="leading" secondItem="H45-cn-6vp" secondAttribute="leading" id="fWS-dh-R0I"/>
+                        <constraint firstAttribute="trailing" secondItem="2mS-14-bFs" secondAttribute="trailing" id="xP4-d2-Hnq"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="H45-cn-6vp" secondAttribute="bottom" id="SRV-B7-BJ7"/>
+                <constraint firstItem="H45-cn-6vp" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="W0I-RY-GOs"/>
+                <constraint firstAttribute="trailing" secondItem="H45-cn-6vp" secondAttribute="trailing" id="new-sR-22C"/>
+            </constraints>
+            <point key="canvasLocation" x="137.68115942028987" y="115.84821428571428"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="cross_button" width="24" height="24"/>
+    </resources>
+</document>

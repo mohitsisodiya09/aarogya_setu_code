@@ -1,0 +1,268 @@
+/* 
+  Localized.strings
+  CoMap-19
+
+ 
+*/
+
+
+"select_language" = "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ";
+"app_permissions" = "App Permissions";
+"bluetooth" = "ਬਲੁਟੁੱਥ";
+"couldnot_recall" = "But I couldn’t recall everyone.";
+"country_code" = "+91";
+"cross_icon" = "X";
+"data_sharing_with_the_ministry" = "Data shared with the Government of India";
+"device_location" = "ਜੰਤਰ ਟਿਕਾਣਾ";
+"english" = "English";
+"enter_mobile_number" = "ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ";
+"enter_otp" = "OTP ਦਰਜ ਕਰੋ";
+"resend_otp" = "ਦੁਬਾਰਾ OTP";
+"first_fragment_label" = "First Fragment";
+"i_understand" = "ਮੈਂ ਸੱਮਝਦਾ ਹਾਂ.";
+"immediately_info" = "I immediately provided the government with names of places I visited and people I met in the past 14 days.";
+"mobile_number" = "ਮੋਬਾਈਲ ਨੰਬਰ";
+"next" = "ਅਗਲਾ";
+"otp" = "OTP";
+"permissions_detail" = "ਅਸੀਂ ਇਸ ਵਿਸ਼ੇ ਦੀ ਸੁਭਾਅ ਅਤੇ ਸੰਵੇਦਨਸ਼ੀਲਤਾ ਨੂੰ ਸਮਝਦੇ ਹਾਂ ਅਤੇ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰਨ ਲਈ ਸਖਤ ਕਦਮ ਚੁੱਕੇ ਹਨ ਕਿ ਤੁਹਾਡੇ ਡੇਟਾ ਨਾਲ ਸਮਝੌਤਾ ਨਾ ਹੋਵੇ.";
+"permissions_title" = "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਗੋਪਨੀਯਤਾ";
+"please_select_a_language_en" = "Please select your language";
+"please_select_a_language_hi" = "Kripaya bhasha chunein";
+"please_select_a_language_to_proceed" = "Please select a language to proceed.";
+"previous" = "Previous";
+"register" = "Register";
+"second_fragment_label" = "Second Fragment";
+"submit" = "ਜਮ੍ਹਾਂ ਕਰੋ";
+"swift_action" = "The government acted swiftly and quarantined these people and places, including my daughter’s school, and my friends and their families, too.";
+"thanks_map19" = "Thanks to MAP 19, I found out every place I visited and every person who was 5 ft away from me, in the past 14 days.";
+"title_activity_language_selection" = "LanguageSelectionActivity";
+"under_developement" = "Under Development";
+"we_have_sent_otp" = "ਅਸੀਂ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨੰਬਰ 'ਤੇ ਓਟੀਪੀ ਭੇਜਿਆ ਹੈ";
+"why_is_it_needed" = "ਇਸਦੀ ਲੋੜ ਕਿਉਂ ਹੈ?";
+"your_mobile_number_is_required_to_know_your_identity" = "ਸੰਪਰਕ ਟਰੇਸਿੰਗ ਲਈ ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਨੰਬਰ ਲਾਜ਼ਮੀ ਹੈ.";
+"each_one_of_us" = "ਸਾਡੇ ਵਿਚੋਂ ਹਰ ਇਕ ਕੋਲ ਭਾਰਤ ਵਿਚ ਕੋਰੋਨਾਵਾਇਰਸ ਮਹਾਂਮਾਰੀ ਦੇ ਫੈਲਣ ਨੂੰ ਰੋਕਣ ਵਿਚ ਮਦਦ ਕਰਨ ਦੀ ਸ਼ਕਤੀ ਹੈl";
+"would_you_like" = "ਕੀ ਤੁਸੀਂ ਸੂਚਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਅਜਿਹੇ ਵਿਅਕਤੀ ਨਾਲ ਰਸਤਾ ਪਾਰ ਕੀਤਾ ਹੈ ਜਿਸਨੇ ਕੋਵਿਡ -19 ਨੂੰ ਸਕਾਰਾਤਮਕ ਟੈਸਟ ਕੀਤਾ ਹੈ?";
+"cowin20_tracks" = "ਅਰੋਗਿਆ ਸੇਤੂ ਟਰੈਕ, ਇੱਕ ਬਲਿ ਬਲੂਟੁੱਥ / ਜੀਪੀਐਸ ਦੁਆਰਾ ਤਿਆਰ ਕੀਤੇ ਸਮਾਜਿਕ ਗ੍ਰਾਫ ਦੁਆਰਾ, ਕਿਸੇ ਅਜਿਹੇ ਵਿਅਕਤੀ ਨਾਲ ਤੁਹਾਡੀ ਗੱਲਬਾਤ ਜੋ COVID-19 ਸਕਾਰਾਤਮਕ ਟੈਸਟ ਕਰ ਸਕਦਾ ਸੀ";
+"simply_install" = "ਬਸ\n१. ऐਪ ਇੰਸਟਾਲ ਕਰੋ\n२. ਆਪਣੇ ਬਲੂਟੂਥ / GPS ਤੇ ਜਾਓ\n३. ਆਪਣੇ ਲੋਕ ਸ਼ੇਅਰਿੰਗ ਹਮੇਸ਼ਾ 'ਆਵੇਜ਼' ਜਾਰੀ ਰੱਖੋ\n\nਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨੂੰ ਐਪ ਸਥਾਪਤ ਕਰਨ ਲਈ ਸੱਦਾ ਦਿਓ";
+"you_will_be_alerted" = "ਤੁਹਾਨੂੰ ਚੇਤਾਵਨੀ ਦਿੱਤੀ ਜਾਏਗੀ ਜੇ ਕੋਈ ਵਿਅਕਤੀ ਜਿਸ ਦੇ ਨੇੜੇ ਆ ਗਿਆ ਹੈ, ਇੱਥੋਂ ਤਕ ਕਿ ਅਣਜਾਣੇ ਵਿਚ, ਕੋਵਿਡ -19 ਨੂੰ ਸਕਾਰਾਤਮਕ ਟੈਸਟ ਕਰਦਾ ਹੈ";
+"the_app_alerts" = "ਇਹ ਐਪ ਤੁਹਾਨੂੰ ਚੇਤਾਵਨੀ ਦੇ ਨਾਲ ਨਾਲ ਆਪਣੇ ਆਪ ਨੂੰ ਅਲੱਗ ਰੱਖਣ ਦੇ ਨਿਰਦੇਸ਼ ਵੀ ਦੇਵੇਗਾ, ਅਤੇ ਇਹ ਵੀ ਦੱਸੇਗਾ ਕਿ ਜਦੋਂ ਬਿਮਾਰੀ ਦੇ ਲੱਛਣ ਦਿਖਾਈ ਦੇਣ ਤਾਂ ਤੁਰੰਤ ਇਲਾਜ ਲਈ ਕੀ ਕਰਨਾ ਹੈl";
+"with_cowin20" = "ਅਰੋਗਿਆ ਸੇਤੂ ਦੇ ਨਾਲ, ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ, ਆਪਣੇ ਪਰਿਵਾਰ ਅਤੇ ਦੋਸਤਾਂ ਦੀ ਰੱਖਿਆ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਕੋਵਿਡ -19 ਨਾਲ ਲੜਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਵਿੱਚ ਸਾਡੇ ਦੇਸ਼ ਦੀ ਸਹਾਇਤਾ ਕਰ ਸਕਦੇ ਹੋlਆਓ ਕੋਵਿਨ -19 ਨੁ ਮਿਲ ਕੇ ਹਰਾਇਏ";
+"please_upgrade" = "Please Upgrade";
+"upgrade" = "Upgrade";
+"please_download_latest_version" = "Please download latest version of %@ to continue using its safety services.";
+"data_sharing_with_moh" = "ਡਾਟਾ ਸ਼ੇਅਰਿੰਗ";
+"sets_your_location" = "ਇਹ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਸਥਿਤੀ ਸਾਂਝੇ ਕਰਨ ਨੂੰ 'ਹਮੇਸ਼ਾਂ' ਤੇ ਸੈਟ ਕਰੋ. ਤੁਸੀਂ ਇਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਿਸੇ ਵੀ ਸਮੇਂ ਬਦਲ ਸਕਦੇ ਹੋ.";
+"monitors_your_device" = "ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਦੀ ਕਿਸੇ ਹੋਰ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਨੇੜਤਾ ਦੀ ਨਿਗਰਾਨੀ ਕਰਦਾ ਹੈ. ਇਹ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸਨੂੰ ਹਰ ਸਮੇਂ ਜਾਰੀ ਰੱਖੋ.";
+"data_will_be_sent_only_to_moi" = "ਤੁਹਾਡਾ ਡੇਟਾ ਸਿਰਫ ਭਾਰਤ ਸਰਕਾਰ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਜਾਵੇਗਾ. ਐਪ ਕਿਸੇ ਵੀ ਸਮੇਂ ਤੁਹਾਡੇ ਨਾਮ ਅਤੇ ਨੰਬਰ ਜਨਤਾ ਨੂੰ ਦੱਸਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦੀ.";
+"contribute_to_a_safer_india" = "ਮੈਂ ਸਹਿਮਤ ਹਾਂ |";
+"register_now" = "ਹੁਣੇ ਦਰਜ ਕਰਵਾਓ";
+"why_is_it_needed_sub_title" = "ਕਹੋ, ਤੁਸੀਂ ਕਿਸੇ ਹਫ਼ਤੇ ਪਹਿਲਾਂ ਕਿਸੇ ਇਕੱਠ ਵਿੱਚ ਕਿਸੇ ਨੂੰ ਮਿਲੇ ਸੀ ਜਾਂ ਕਿਸੇ ਜਨਤਕ ਜਗ੍ਹਾ‘ ਤੇ ਕਿਸੇ ਅਣਜਾਣ ਵਿਅਕਤੀ ਦੇ ਨੇੜਤਾ ਵਿੱਚ ਸੀ, ਅਤੇ ਕੁਝ ਦਿਨਾਂ ਵਿੱਚ, ਉਹ ਕੋਵਿਡ -19 ਲਈ ਸਕਾਰਾਤਮਕ ਟੈਸਟ ਕਰਦੇ ਹਨ।.\n\nਭਾਰਤ ਸਰਕਾਰ ਪਿਛਲੇ 14 ਦਿਨਾਂ ਦੌਰਾਨ ਉਸ ਵਿਅਕਤੀ ਦੇ ਸਾਰੇ ਟੱਚ ਪੁਆਇੰਟਾਂ ਦਾ ਪਤਾ ਲਗਾਏਗੀ, ਜੋ ਐਪ ਦੀ ਸਥਾਪਨਾ ਨਾਲ ਸਰਗਰਮ ਉਪਕਰਣਾਂ ਰਾਹੀਂ ਉਸ ਵਿਅਕਤੀ ਦੇ ਨਜ਼ਦੀਕੀ ਘੇਰੇ ਵਿਚ ਸਨ।.\n\nਫਿਰ ਅਜਿਹੇ ਸਾਰੇ ਸੰਪਰਕਾਂ ਨੂੰ ਇਕ ਸਲਾਹਕਾਰ ਨਾਲ ਅਗਲੇਰੀ ਕਾਰਵਾਈ ਲਈ ਸਵੈ-ਅਲੱਗ-ਥਲੱਗ ਕਰਨ ਜਾਂ ਕਿਸੇ ਟੈਸਟ ਨੂੰ ਨੇੜੇ ਦੇ ਟੈਸਟਿੰਗ ਕੇਂਦਰ ਵਿਖੇ ਕਰਵਾਉਣ ਲਈ, ਜ਼ਰੂਰਤ ਅਨੁਸਾਰ ਭੇਜਿਆ ਜਾਵੇਗਾ।\n\nਸਰਗਰਮ ਸੰਪਰਕ ਟਰੇਸਿੰਗ ਵਿਚ ਹਿੱਸਾ ਲੈ ਕੇ, ਤੁਸੀਂ ਸਾਡੀ ਕੋਵਿਡ -19 ਦੇ ਫੈਲਣ ਨੂੰ ਘੱਟ ਕਰਨ ਅਤੇ ਭਾਰਤ ਸਰਕਾਰ ਨੂੰ ਤੁਹਾਡੀ ਸਿਹਤ ਅਤੇ ਤੰਦਰੁਸਤੀ ਲਈ ਕਿਰਿਆਸ਼ੀਲ ਉਪਾਅ ਲਾਗੂ ਕਰਨ ਵਿਚ ਸਹਾਇਤਾ ਕਰੋਗੇ।";
+"ok" = "ਠੀਕ ਹੈ";
+"close" = "ਬੰਦ ਕਰੋ";
+"terms_n_conditions" = "Terms & Conditions";
+"try_again" = "Try Again";
+"settings" = "Settings";
+"internet_connection_lost" = "Internet Connection Lost";
+"make_sure_your_phone_is_connected_to_wifi" = "Make sure your phone is connected to the WiFi or switch to mobile data.";
+"permission_screen_tnc" = "ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਸੁਰੱਖਿਅਤ ਭਾਰਤ ਵਿਚ ਯੋਗਦਾਨ ਪਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰਕੇ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਨੂੰ ਸਵੀਕਾਰ ਕਰੋ.";
+"share_app_message" = "ਮੈਂ ਇਸ ਐਪ ਨੂੰ COVID19 ਵਿਰੁੱਧ ਲੜਨ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹਾਂ. ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਲਿੰਕ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਇਸਨੂੰ ਡਾਉਨਲੋਡ ਅਤੇ ਸਾਂਝਾ ਕਰੋ";
+"turn_on" = "Turn On";
+"later" = "Later";
+"location_alert_title" = "Turn on Location";
+"location_alert_subtitle" = "Location must be set to Always, to track your history and give you accurate safety updates.";
+"bluetooth_alert_title" = "Turn on Bluetooth";
+"bluetooth_alert_subtitle" = "Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.";
+"upload_consent_title" = "ਤੁਹਾਡਾ ਡਾਟਾ ਹਮੇਸ਼ਾ ਤੁਹਾਡੇ ਫੋਨ ਤੇ ਸੇਵ ਕੀਤਾ ਜਾਂਦਾ ਹੈ. ਜੇਕਰ ਤੁਹਾਡਾ COVID-19 ਦਾ ਟੈਸਟ ਪੋਜ਼ੀਟਿਵ ਆਇਆ ਹੈ ਜਾਂ ਇਸ ਵੇਲੇ ਤੁਹਾਡਾ ਟੈਸਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਰਕਾਰ ਨੂੰ ਰਿਪੋਰਟ ਕਰ ਸਕਦੇ ਹੋ. ਜਦੋਂ ਤੁਸੀਂ ਅਜਿਹਾ ਕਰਦੇ ਹੋ ਤਾਂ ਸਰਕਾਰ ਤੁਹਾਡਾ ਡਾਟਾ ਅੱਪਲੋਡ ਕਰੇਗੀ.";
+"upload_consent_subtitle" = "ਮੈਂ ਪੁਸ਼ਟੀ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ";
+"being_tested" = "ਇਸ ਵੇਲੇ ਮੇਰਾ COVID-19 ਦਾ ਟੈਸਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ";
+"tested_positive" = "ਮੇਰਾ COVID-19 ਦਾ ਟੈਸਟ ਪੋਜ਼ੀਟਿਵ ਆਇਆ ਹੈ";
+"none_of_above" = "ਇਨ੍ਹਾਂ ਵਿਚੋਂ ਕੋਈ ਵੀ ਮੇਰੇ ਲਈ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦਾ";
+"to_help_contact_tracing" = "ਕੰਟੈਕਟ ਟ੍ਰੇਸਿੰਗ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ, ਬਲੂਟੁੱਥ ਅਤੇ GPS ਰਾਹੀਂ ਕੈਪਚਰ ਕੀਤੇ ਗਏ ਤੁਹਾਡੇ ਸੰਵਾਦ ਡਾਟਾ ਨੂੰ ਭਾਰਤ ਸਰਕਾਰ ਨਾਲ ਸ਼ੇਅਰ ਕੀਤਾ ਜਾਵੇਗਾ.";
+"confirm_proceed" = "ਪੁਸ਼ਟੀ ਕਰੋ ਅਤੇ ਅੱਗੇ ਵਧੋ";
+"syncingData" = "ਡਾਟਾ ਸਿੰਕ ਹੋ ਰਿਹਾ ਹੈ";
+"sending_interaction_data" = "ਭਾਰਤ ਸਰਕਾਰ ਨੂੰ ਬਲੂਟੁੱਥ ਅਤੇ GPS ਰਾਹੀਂ ਪ੍ਰਾਪਤ ਸੰਵਾਦ ਡਾਟਾ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ.";
+"cancel" = "ਕੈਂਸਲ ਕਰੋ";
+"sync_failed" = "ਸਿੰਕ ਨਹੀਂ ਹੋ ਪਾਇਆ";
+"retry" = "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+"something_went_wrong_please_retry" = "ਕੁਝ ਸਮੱਸਿਆ ਹੋਈ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.";
+"sync_successful" = "ਸਿੰਕ ਹੋ ਗਿਆ ਹੈ";
+"your_data_secured" = "ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਹੁਣ ਭਾਰਤ ਸਰਕਾਰ ਦੇ ਸਰਵਰ ਤੇ ਸੁਰੱਖਿਅਤ ਹੈ.";
+"rating_title" = "Rate us on the App Store to help make Aarogya Setu even better.";
+"not_now" = "Not Now";
+"rate_now" = "Rate Now";
+"scan_Qr_Code_To_Get_My_Health_Status" = "ਮੇਰੀ ਸਿਹਤ ਦੀ ਸਥਿਤੀ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ";
+"refresh_Qr_Code"= "QR ਕੋਡ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ";
+"qr_Code_Valid_For" = "ਕਿਊ.ਆਰ ਕੋਡ ਲਈ ਵੈਧ";
+"to_Generate_Qr_Ble_And_Gps_Must_Be_ON"= "To generate QR code, Bluetooth & GPS must be in “ON” state";
+"turn_On_Ble_And_Gps"= "Turn on Bluetooth & GPS";
+"turn_On_Ble"= "Turn on Bluetooth";
+"turn_On_Gps"= "Turn on GPS";
+"qr_Code_Is_Expired"= "QR Code is Expired";
+"expired_qr_code"= "ਮਿਆਦ ਪੁੱਗਣ ਵਾਲਾ QR ਕੋਡ";
+"please_request_the_person_to_generate_new_code"= "ਕਿਰਪਾ ਕਰਕੇ ਵਿਅਕਤੀ ਨੂੰ ਨਵਾਂ ਕੋਡ ਤਿਆਰ ਕਰਨ ਲਈ ਬੇਨਤੀ ਕਰੋ";
+"low_risk_of_infection"= "%@ ਲਾਗ ਦੇ ਘੱਟ ਜੋਖਮ ਤੇ";
+"moderate_risk_of_infection"= "%@ ਲਾਗ ਦੇ ਦਰਮਿਆਨੇ ਜੋਖਮ ਤੇ";
+"high_risk_of_infection"= "%@ ਲਾਗ ਦੇ ਉੱਚ ਜੋਖਮ ਤੇ";
+"tested_positive_for_covid19"= "%@ COVID-19 ਲਈ ਸਕਾਰਾਤਮਕ ਟੈਸਟ ਕੀਤਾ ਹੈ";
+"invalid_qr_code"= "ਗਲਤ QR ਕੋਡ";
+"not_generated_by_official_app"= "ਇਸ ਨੂੰ ਅਧਿਕਾਰਤ ਅਰੋਗਯ ਸੇਤੂ ਐਪ ਦੁਆਰਾ ਨਹੀਂ ਬਣਾਇਆ ਗਿਆ ਹੈ।";
+"app_version"= "ਐਪ ਵਰਜਨ";
+"share_data_gov"= "ਸਰਕਾਰ ਨਾਲ ਡਾਟਾ ਸਾਂਝਾ ਕਰੋ।";
+"share_data_positive"= "ਕੇਵਲ ਤਾਂ ਹੀ ਸਾਂਝਾ ਕਰੋ ਜੇਕਰ ਤੁਸੀਂ COVID-19 ਵਾਸਤੇ ਟੈਸਟ ਪਾਜੇਟਿਵ ਆਏ ਹੋ ਜਾਂ ਵਰਤਮਾਨ ਸਮੇਂ ਟੈਸਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ";
+"call_helpline"= "ਕਾਲ ਹੈਲਪਲਾਈਨ (1075)";
+"health_ministry_toll_free"= "COVID-19 ਨਾਲ ਸਬੰਧਿਤ ਸਵਾਲਾਂ ਵਾਸਤੇ ਸਿਹਤ ਮੰਤਰਾਲੇ ਦੀ ਟੌਲ-ਫ੍ਰੀ ਹੈਲਪਲਾਈਨ";
+"qr_code"= "QR ਕੋਡ ਬਣਾਓ/ਸਕੈਨ ਕਰੋ";
+"privacy_policy"= "ਪਰਦੇਦਾਰੀ ਨੀਤੀ";
+"terms_use"= "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ";
+"tool_tip"= "A lot of new Features like Helpline, Privacy Policy, Terms of Use and more can be found here.";
+"scan_qr_code"= "ਦੂਜੇ ਦੇ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ";
+"generate_my_qr_code"= "ਮੇਰਾ QR ਕੋਡ ਬਣਾਓ";
+"scan_qr_prompt"= "ਕਿਸੇ ਹੋਰ ਦੀ ਸਿਹਤ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ";
+
+"delete_account_title" = "ਮੇਰਾ ਖਾਤਾ ਮਿਟਾਓ";
+
+"delete_account_summary" = "ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਪੱਕੇ ਤੌਰ 'ਤੇ ਮਿਟਾ ਸਕਦੇ ਹੋ ਅਤੇ ਸਾਰਾ ਡਾਟਾ ਮਿਟਾ ਸਕਦੇ ਹੋ  ";
+
+"delete_account_confirm" = "ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣਾ ਜਾਰੀ ਰੱਖਣ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਮੋਬਾਈਲ ਨੰਬਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ";
+
+"delete_account" = "ਖਾਤਾ ਮਿਟਾਓ";
+
+"approvals" = "ਮਨਜ਼ੂਰੀ";
+
+"view_request" = "ਬੇਨਤੀ ਵੇਖੋ";
+
+"approval_request_title" = "%@ ਨੇ ਤੁਹਾਡੀ %@ ਸਥਿਤੀ ਲਈ ਬੇਨਤੀ ਕੀਤੀ ਹੈ";
+
+"always_approved" = "ਹਮੇਸ਼ਾਂ ਮਨਜ਼ੂਰ";
+
+"approved" = "ਮਨਜ਼ੂਰ";
+
+"rejected" = "ਅਸਵੀਕਾਰ ਕਰ ਦਿੱਤਾ";
+
+"no_pending_approval_title" = "ਕੋਈ ਲੰਬਿਤ ਬੇਨਤੀਆਂ ਨਹੀਂ";
+
+"no_pending_approval_detail" = "ਤੁਹਾਡੀ ਮਨਜ਼ੂਰੀ ਲਈ ਇੱਥੇ \"ਅਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ\" ਦੀਆਂ ਲੰਬਿਤ ਬੇਨਤੀਆਂ ਨਹੀਂ ਹਨ";
+
+"few_seconds_ago" = "ਕੁਝ ਸਕਿੰਟ ਪਹਿਲਾਂ";
+
+"minute_ago" = "1 ਮਿੰਟ ਪਹਿਲਾਂ";
+
+"minutes_ago" = "%d ਮਿੰਟ ਪਹਿਲਾਂ";
+
+"today_at" = "ਅੱਜ %@ ਤੇ";
+
+"why" = " ਕਿਉਂ ";
+
+"approve" = "ਮਨਜ਼ੂਰ";
+
+"always_approve" = "ਹਮੇਸ਼ਾਂ ਮਨਜ਼ੂਰ ਕਰੋ";
+
+"reject" = "ਰੱਦ ਕਰੋ";
+
+"request_approved" = "ਬੇਨਤੀ ਪ੍ਰਵਾਨ ਕੀਤੀ ਗਈ";
+
+"request_approved_detail" = "%@ ਨੂੰ ਤੁਹਾਡੀ ਅਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਵਿੱਚ ਇੱਕ ਵਾਰ ਪਹੁੰਚ ਮਿਲੇਗੀ";
+
+"request_rejected" = "ਬੇਨਤੀ ਅਸਵੀਕਾਰ ਕੀਤੀ ਗਈ";
+
+"request_always_approved" = "ਬੇਨਤੀ ਪ੍ਰਵਾਨ ਕੀਤੀ ਗਈ";
+
+"request_always_approved_detail" = "%@ ਭਵਿੱਖ ਦੀਆਂ ਬੇਨਤੀਆਂ ਲਈ ਤੁਹਾਡੀ ਆਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਯੋਗ ਹੋ ਜਾਵੇਗਾ. ਤੁਸੀਂ ਇਸਨੂੰ ਕਦੇ ਵੀ ਸੈਟਿੰਗਾਂ ਤੋਂ ਅਯੋਗ ਕਰ ਸਕਦੇ ਹੋ";
+
+"request_rejected_detail" = "%@ ਤੁਹਾਡੀ ਆਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਣਗੇ";
+
+"approval_notification_title" = "ਅਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਪਹੁੰਚ ਕਰਨ ਲਈ ਬੇਨਤੀ";
+
+"approvals_preference_title" = "ਅਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਲਈ ਪ੍ਰਵਾਨਗੀ";
+
+"approvals_no_preference_summary" = "ਵਰਤਮਾਨ ਵਿੱਚ ਕੋਈ ਵੀ ਬਾਹਰੀ ਐਪਸ ਤੁਹਾਡੀ ਆਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਨੂੰ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਰਹੇ ਹਨ.";
+
+"approvals_preference_summary" = "ਬਾਹਰੀ ਐਪਸ ਜੋ ਸਿਰਫ ਤੁਹਾਡੀ ਅਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਨੂੰ ਵੇਖ ਸਕਦੇ ਹਨ.";
+
+"blocked" = "ਬਲੌਕ ਕੀਤਾ";
+
+"always_ask" = "ਹਰ ਵਾਰ ਮਨਜ਼ੂਰੀ ਮੰਗੋ";
+
+"of_request" = "%@ ਬੇਨਤੀਆਂ ਵਿਚੋਂ %@";
+
+"auto_rejected" = "Auto Rejected";
+
+"report_abuse" = "ਰਿਪੋਰਟ ਦੁਰਵਿਵਹਾਰ";
+
+"report_abuse_title" = "ਇਸ ਬੇਨਤੀ ਵਿੱਚ ਕੀ ਗਲਤ ਹੈ?";
+
+"report_abuse_detail" = "ਮੁੱਦੇ ਨੂੰ ਸਮਝਣ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ";
+
+"didnt_initiate_request" = "ਮੈਂ ਇਹ ਬੇਨਤੀ ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤੀ";
+
+"report" = "ਰਿਪੋਰਟ";
+
+"suspicious_spam" = "ਇਹ ਸ਼ੱਕੀ ਜਾਂ ਸਪੈਮ ਹੈ";
+
+"other" = "ਹੋਰ";
+
+"block" = "ਬਲੌਕ";
+
+"approval_request_time_interval" = "ਇਹ ਬੇਨਤੀ % ਤੋਂ % ਤੱਕ ਹੈ";
+
+"approvals_preference" = "ਮਨਜ਼ੂਰੀ ਪਸੰਦ";
+
+"error_select_option" = "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵਿਕਲਪ ਚੁਣੋ";
+
+"auto_approved" = "ਆਟੋ ਮਨਜ਼ੂਰ";
+
+"status_check" = "ਸਥਿਤੀ ਜਾਂਚ";
+
+"status_check_detail" = "ਆਪਣੇ ਨਜ਼ਦੀਕੀਆਂ ਦੀ ਇੱਕ ਥਾਂ ਤੋਂ ਆਰੋਗਿਆ ਸੇਤੂ ਦੀ ਸਥਿਤੀ 'ਤੇ ਨਜ਼ਰ ਰੱਖੋ।";
+
+"add" = "ਸ਼ਾਮਲ";
+
+"keep_a_check_on_app" = "ਤੁਸੀਂ ਆਪਣੇ ਨਜ਼ਦੀਕੀਆਂ ਦੀ ਇੱਕ ਥਾਂ ਤੋਂ ਆਰੋਗਿਆ ਸੇਤੂ ਦੀ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕਰ ਸਕਦੇ ਹੋ।";
+
+"add_account" = "ਖਾਤਾ ਸ਼ਾਮਲ";
+
+"want_app_to_keep_check" = "ਕੀ ਹੋਰ ਲੋਕ ਤੁਹਾਡੀ ਆਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ 'ਤੇ ਨਜ਼ਰ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹਨ?";
+
+"generate_and_share" = "ਆਪਣੇ ਕੋਡ ਨੂੰ ਬਣਾਓ ਅਤੇ ਸਾਂਝਾ ਕਰੋ";
+
+"remove" = "ਹਟਾਓ";
+
+"registered_mobile_detail" = "ਵਿਅਕਤੀ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਆਪਣੀ ਆਰੋਗਿਆ ਸੇਤੂ ਸਥਿਤੀ ਸਾਂਝੀ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ";
+
+"generate_code" = "ਕੋਡ ਬਣਾਓ";
+
+"enter_code" = "ਕੋਡ ਦਰਜ਼ ਕਰੋ";
+
+"code" = "ਕੋਡ";
+
+"get_code_detail" = "ਪੁਸ਼ਟੀ ਕਰਨ ਅਤੇ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਖਾਤਾ ਧਾਰਕ ਤੋਂ ਵਿਲੱਖਣ ਕੋਡ ਪ੍ਰਾਪਤ ਕਰੋ";
+
+"verify_and_add" = "ਜਾਂਚ ਕਰੋ ਅਤੇ ਸ਼ਾਮਲ ਕਰੋ";
+
+"share_your_code" = "ਆਪਣਾ ਕੋਡ ਸਾਂਝਾ ਕਰੋ";
+
+"share_code_to_enable" = "ਤੁਹਾਡੀ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਯੂਜ਼ਰ ਨੂੰ ਫ਼ੋਨ ਨੰਬਰ(%@) ਨਾਲ ਸਾਂਝਾ ਕਰੋ।";
+
+"please_enter_a_valid_code" = "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਕੋਡ ਦਾਖਲ ਕਰੋ।";
+
+"share" = "ਸਾਂਝਾ";
+
+"copy" = "ਕਾਪੀ";
+
+"code_valid_for" = "ਕੋਡ 45 ਮਿੰਟ ਲਈ ਵੈਧ ਹੈ";
+
+"forty_five_min" = "45 ਮਿੰਟ";
+
+"permission_access_preference_title" = "ਸਥਿਤੀ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ ਅਧਿਕਾਰ";
+
+"permission_access_preference_summary" = "ਬਾਹਰੀ ਐਪਾਂ ਜਾਂ ਵਰਤੋਂਕਾਰ ਜੋ ਤੁਹਾਡੀ Aarogya Setu ਸਥਿਤੀ ਤੱਕ ਪਹੁੰਚ ਕਰ ਸਕਦੇ ਹਨ।";
+
+"apps" = "APPS";
+
+"users" = "ਯੂਜ਼ਰ";
+
+"approvals_no_user_preference_summary" = "ਵਰਤਮਾਨ ਸਮੇਂ ਕੋਈ ਬਾਹਰੀ ਵਰਤੋਂਕਾਰ ਤੁਹਾਡੀ Aarogya Setu ਸਥਿਤੀ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਰਹੇ ਹਨ।";
+
+"approval_request_with_reason_title" = "%@ ਨੇ %@ ਲਈ ਤੁਹਾਡੀ %@ ਸਥਿਤੀ ਲਈ ਬੇਨਤੀ ਕੀਤੀ ਹੈ";
+
+"approval_request_with_reason_and_time_title" = "%@ ਨੇ %@ ਲਈ %@ ਤੋਂ %@ ਤੱਕ ਤੁਹਾਡੀ %@ ਸਥਿਤੀ ਲਈ ਬੇਨਤੀ ਕੀਤੀ ਹੈ";

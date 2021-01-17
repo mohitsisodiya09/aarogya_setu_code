@@ -1,0 +1,268 @@
+/* 
+  Localized.strings
+  CoMap-19
+
+  
+*/
+
+
+"select_language" = "আপনার ভাষা চয়ন করুন";
+"app_permissions" = "App Permissions";
+"bluetooth" = "ব্লুটুথ";
+"couldnot_recall" = "But I couldn’t recall everyone.";
+"country_code" = "+91";
+"cross_icon" = "X";
+"data_sharing_with_the_ministry" = "Data shared with the Government of India";
+"device_location" = "ডিভাইস লোকেশন";
+"english" = "English";
+"enter_mobile_number" = "মোবাইল নম্বর লিখুন";
+"enter_otp" = "ওটিপি (OTP) লিখুন";
+"resend_otp" = "ওটিপি (OTP) পুনরায় পাঠান";
+"first_fragment_label" = "First Fragment";
+"i_understand" = "আমি বুঝেছি.";
+"immediately_info" = "I immediately provided the government with names of places I visited and people I met in the past 14 days.";
+"mobile_number" = "মোবাইল নম্বর";
+"next" = "পরবর্তী";
+"otp" = "OTP";
+"permissions_detail" = "আমরা এই বিষয়টির প্রকৃতি এবং সংবেদনশীলতা বুঝি অতএব আপনার ডেটা বিপন্ন না হওয়ার বিষয়টি নিশ্চিত করার জন্য কঠোর ব্যবস্থা করেছি।";
+"permissions_title" = "পরিষেবার শর্তাদি এবং গোপনীয়তা";
+"please_select_a_language_en" = "Please select your language";
+"please_select_a_language_hi" = "Kripaya bhasha chunein";
+"please_select_a_language_to_proceed" = "Please select a language to proceed.";
+"previous" = "Previous";
+"register" = "Register";
+"second_fragment_label" = "Second Fragment";
+"submit" = "জমা দিন";
+"swift_action" = "The government acted swiftly and quarantined these people and places, including my daughter’s school, and my friends and their families, too.";
+"thanks_map19" = "Thanks to MAP 19, I found out every place I visited and every person who was 5 ft away from me, in the past 14 days.";
+"title_activity_language_selection" = "LanguageSelectionActivity";
+"under_developement" = "Under Development";
+"we_have_sent_otp" = "আমরা আপনার মোবাইল নম্বরে ওটিপি(OTP) পাঠিয়েছি";
+"why_is_it_needed" = "কেন এটি প্রয়োজন?";
+"your_mobile_number_is_required_to_know_your_identity" = "কন্টাক্ট ট্রেসিং (Contact Tracing) এর জন্য আপনার মোবাইল নম্বর প্রয়োজন।";
+"each_one_of_us" = "ভারতে করোনা ভাইরাস মহামারী রোধ করার ক্ষমতা আমাদের প্রত্যেকের মধ্যে রয়েছে।";
+"would_you_like" = "আপনি কি COVID-19 সংক্রামিত কোনো ব্যক্তির সঙ্গস্পর্শে এসেছেন কিনা জানতে চান ?";
+"cowin20_tracks" = "আরোগ্য সেতু ব্লুটুথ / জিপিএস দ্বারা উৎপাদিত সামাজিক গ্রাফের মাধ্যমে, COVID-19 সংক্রামিত কোনও ব্যক্তির সাথে আপনার  যোগাযোগ চিহ্নিত করতে পারে।";
+"simply_install" = "কেবল\n1. অ্যাপ(App) ইনস্টল করুন\n2. ব্লুটুথ (Bluetooth) এবং অবস্থান চালু করুন\n3. অবস্থান পরিষেবা (Location) 'সর্বদা' সেট করুন\n\nঅ্যাপ্লিকেশন ইনস্টল করতে বন্ধুদের এবং পরিবারকে আমন্ত্রণ জানান";
+"you_will_be_alerted" = "COVID-19 ইতিবাচক কোন ব্যক্তি আপনার  জ্ঞাত/অজ্ঞাতসারে নিকটবর্তী হলে আপনাকে সতর্ক করা হবে।";
+"the_app_alerts" = "অ্যাপটির সতর্কীকরণ বারতায় (Alerts) আপনি জানতে পারবেন কীভাবে নিজেকে স্ব-বিচ্ছিন্ন করতে হবে এবং যদি আপনার দেহে রোগটির লক্ষণগুলি প্রকাশ পায় সে ক্ষেত্রে আপনার করনীয় বিধি, যা আপনাকে সহায়তা ও সাহায্য করবে ।";
+"with_cowin20" = "আরোগ্য সেতু এর সাহায্যে আপনি নিজেকে, আপনার পরিবার এবং বন্ধুবান্ধবকে রক্ষা করতে পারেন এবং COVID-19 এর বিরুদ্ধে লড়াই করার প্রয়াসে আমাদের দেশকে সহায়তা করতে পারেন";
+"please_upgrade" = "Please Upgrade";
+"upgrade" = "Upgrade";
+"please_download_latest_version" = "Please download latest version of %@ to continue using its safety services.";
+"data_sharing_with_moh" = "ডিভাইস লোকেশন";
+"sets_your_location" = "নিজের লোকেশন শেয়ারিং (Location Sharing) 'সর্বদা'('Always') এ সেট করুন। আপনি পরে যে কোনও সময় এটি পরিবর্তন করতে পারেন।";
+"monitors_your_device" = "অন্য মোবাইল ডিভাইসে আপনার ডিভাইসের সান্নিধ্য পর্যবেক্ষণ করে। এটি আপনাকে সর্বদা চালিয়ে যাওয়ার পরামর্শ দেওয়া হয়।";
+"data_will_be_sent_only_to_moi" = "আপনার ডেটা কেবল মাত্র ভারত সরকার কে দেয়া হবে। অ্যাপ্লিকেশনটি কোনও সময়ে আপনার নাম এবং নম্বর জনসাধারণের কাছে প্রকাশ করার অনুমতি দেয় না।";
+"contribute_to_a_safer_india" = "আমি রাজী";
+"register_now" = "রেজিস্টার";
+"why_is_it_needed_sub_title" = "ধরা যাক, আপনি এক সপ্তাহ আগে কারোর সাথে একটি সমাবেশে দেখা করেছিলেন বা কোনও সর্বজনীক স্থানে অজানা কারোর সংস্পর্শে এসেছিলেন।তার কয়েক দিনের মধ্যে তিনি COVID-19 ইতিবাচক ধরা পড়েন ।.\n\nএই অপ্পটি(App) ইনস্টল করা সক্রিয় ডিভাইস এর মাধ্যমে ভারত সরকার গত ১৪ দিনে এই ব্যক্তির নিকটতম ব্যাসার্ধের মধ্যে থাকা সমস্ত তৌচপইন্ট(Touchpoint) গুলো খুঁজে বের করবে।\n\nএরপরে আরও একটি ক্রিয়াকলাপের জন্য একটি পরামর্শক (advisory) সহ এ জাতীয় সমস্ত যোগাযোগের কাছে একটি বিজ্ঞপ্তি (notification) পাঠানো হবে, স্ব-বিচ্ছিন্ন করতে বা প্রয়োজন হিসাবে নিকটতম পরীক্ষা কেন্দ্রে পরীক্ষা করাতে।\n\nকন্টাক্ট ট্রেসিং (Contact tracing) এ অংশ নিয়ে আপনি আমাদের COVID-19 এর বিস্তার কমিয়ে আনতে ও ভারত সরকারকে আপনার স্বাস্থ্য এবং সুষ্ঠ ভাবে জীবন জাপানের জন্য ব্যবস্থা গ্রহণ এ সহায়তা করবেন।";
+"ok" = "ঠিক আছে";
+"close" = "ক্লোসে";
+"terms_n_conditions" = "Terms & Conditions";
+"try_again" = "Try Again";
+"settings" = "Settings";
+"internet_connection_lost" = "Internet Connection Lost";
+"make_sure_your_phone_is_connected_to_wifi" = "Make sure your phone is connected to the WiFi or switch to mobile data.";
+"permission_screen_tnc" = "আপনি যদি এক নিরাপদ ভারতের পথে এগোতে চান তাহলে নীচের বোতামটিতে ক্লিক করে পরিষেবার শর্তাদি(Terms of Service) এবং গোপনীয়তা নীতি(Privacy Policy) সম্পর্কে আপনার স্বীকৃতি নির্দেশ করুন:";
+"share_app_message" = "আমি এই অ্যাপ্লিকেশনটিকে COVID19 এর বিরুদ্ধে লড়াই করার পরামর্শ দিচ্ছি। দয়া করে ডাউনলোড করুন এবং এই লিঙ্কটি ব্যবহার করে প্রচার করুন";
+"turn_on" = "Turn On";
+"later" = "Later";
+"location_alert_title" = "Turn on Location";
+"location_alert_subtitle" = "Location must be set to Always, to track your history and give you accurate safety updates.";
+"bluetooth_alert_title" = "Turn on Bluetooth";
+"bluetooth_alert_subtitle" = "Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.";
+"upload_consent_title" = "আপনার তথ্য সবসময় আপনার ফোনে সেভ করা হয়. যদি আপনার COVID-19 পরীক্ষার ফলাফল পজিটিভ হয় বা বর্তমানে আপনাকে COVID-19 এর জন্য পরীক্ষা করা হয় তাহলে আপনি এটি সরকারের কাছে রিপোর্ট করতে পারেন. যখন আপনি এটি করবেন তখন আপনার তথ্য সরকারের কাছে আপলোড করা হবে.";
+"upload_consent_subtitle" = "আমি নিশ্চিত করছি";
+"being_tested" = "আমাকে বর্তমানে COVID-19 এর জন্য পরীক্ষা করা হয়েছে";
+"tested_positive" = "আমার COVID-19 এর পরীক্ষার ফলাফল পজিটিভ এসেছে";
+"none_of_above" = "এগুলির মধ্যে কোনোটিই আমার জন্য প্রযোজ্য নয়";
+"to_help_contact_tracing" = "কন্ট্যাক্ট ট্রেসিং-এ সাহায্য করার জন্য, ব্লুটুথ এবং GPS সার্ভিসের মাধ্যমে ক্যাপচার করা আপনার কথোপকথনের তথ্য ভারত সরকারের সাথে শেয়ার করা হবে.";
+"confirm_proceed" = "নিশ্চিত করুন এবং এগিয়ে যান";
+"syncingData" = "তথ্য সিঙ্ক করা হচ্ছে";
+"sending_interaction_data" = "ব্লুটুথ এবং GPS সার্ভিসের মাধ্যমে ক্যাপচার করা কথোপকথনের তথ্য ভারত সরকারকে পাঠানো হচ্ছে.";
+"cancel" = "বাতিল করুন";
+"sync_failed" = "সিঙ্ক করা ব্যর্থ হয়েছে";
+"retry" = "পুনরায় চেষ্টা করুন";
+"something_went_wrong_please_retry"= "কিছু সমস্যা হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন.";
+"sync_successful" = "সিঙ্ক করা সফল হয়েছে";
+"your_data_secured" = "আপনার তথ্য এখন ভারত সরকারের সার্ভারে সুরক্ষিত রয়েছে.";
+"rating_title" = "Rate us on the App Store to help make Aarogya Setu even better.";
+"not_now" = "Not Now";
+"rate_now" = "Rate Now";
+"scan_Qr_Code_To_Get_My_Health_Status"= "আমার স্বাস্থ্যের অবস্থা পেতে কিউআর কোডটি স্ক্যান করুন";
+"refresh_Qr_Code"= "কিউআর কোড রিফ্রেশ করতে আলতো চাপুন";
+"qr_Code_Valid_For"= "কিউআর কোড এর জন্য বৈধ";
+"to_Generate_Qr_Ble_And_Gps_Must_Be_ON"= "To generate QR code, Bluetooth & GPS must be in “ON” state";
+"turn_On_Ble_And_Gps"= "Turn on Bluetooth & GPS";
+"turn_On_Ble"= "Turn on Bluetooth";
+"turn_On_Gps"= "Turn on GPS";
+"qr_Code_Is_Expired"= "QR Code is Expired";
+"expired_qr_code"= "মেয়াদোত্তীর্ণ কিউআর কোড";
+"please_request_the_person_to_generate_new_code"= "দয়া করে ব্যক্তিকে নতুন কোড সৃষ্টি তৈরির জন্য অনুরোধ করুন";
+"low_risk_of_infection"= "%@ এটি সংক্রমণের কম ঝুঁকিতে রয়েছে";
+"moderate_risk_of_infection"= "%@ এটি সংক্রমণের মাঝারি ঝুঁকিতে রয়েছে";
+"high_risk_of_infection"= "%@ এটি সংক্রমণের উচ্চ ঝুঁকিতে রয়েছে";
+"tested_positive_for_covid19"= "%@ COVID-19 এর জন্য ইতিবাচক পরীক্ষা করেছে";
+"invalid_qr_code"= "অবৈধ কিউআর কোড";
+"not_generated_by_official_app"= "টি সরকারী আরোগ্য সেতু অ্যাপ্লিকেশন দ্বারা তৈরি করা হয়নি।";
+"app_version"= "অ্যাপ্লিকেশন সংস্করণ";
+"share_data_gov"= "সরকারের সাথে ডেটা ভাগ করুন";
+"share_data_positive"= "আপনি যদি COVID-19 এর জন্য ইতিবাচক পরীক্ষা করেছেন বা বর্তমানে পরীক্ষা করা হচ্ছে তবেই ভাগ করুন";
+"call_helpline"= "কল করুন হেল্পলাইন(১০৭৫)";
+"health_ministry_toll_free"= "COVID-19 সম্পর্কিত প্রশ্নের জন্য স্বাস্থ্য মন্ত্রকের টোল ফ্রি হেল্পলাইন কল করুন";
+"qr_code"= "তৈরি / স্ক্যান করুন কিউআর কোড";
+"privacy_policy"= "গোপনীয়তা নীতি";
+"terms_use"= "ব্যবহারের শর্তাবলী";
+"tool_tip"= "A lot of new Features like Helpline, Privacy Policy, Terms of Use and more can be found here.";
+"scan_qr_code"= "অন্যের কিউআর কোডটি স্ক্যান করুন";
+"generate_my_qr_code"= "আমার কিউআর কোড তৈরি করুন";
+"scan_qr_prompt"= "অন্য কারও স্বাস্থ্যের অবস্থা পরীক্ষা করতে কিউআর কোড স্ক্যান করুন";
+
+"delete_account_title" = "আমার অ্যাকাউন্ট মুছে দিন";
+
+"delete_account_summary" = "আপনি স্থায়ীভাবে আপনার অ্যাকাউন্ট মুছতে এবং সমস্ত ডেটা মুছতে পারেন ";
+
+"delete_account_confirm" = "আপনার অ্যাকাউন্ট মোছা চালিয়ে যেতে, দয়া করে আপনার মোবাইল নম্বরটি নিশ্চিত করুন";
+
+"delete_account" = "অ্যাকাউন্ট মুছে দিন";
+
+"approvals" = "অনুমোদন";
+
+"view_request" = "অনুরোধ দেখুন";
+
+"approval_request_title" = "%@ অনুরোধ করেছে আপনার %@ স্ট্যাটাস জন্য";
+
+"always_approved" = "সর্বদা অনুমোদিত";
+
+"approved" = "অনুমোদিত";
+
+"rejected" = "প্রত্যাখ্যাত";
+
+"no_pending_approval_title" = "কোন  মুলতুবি অনুরোধ নেই";
+
+"no_pending_approval_detail" = "আপনার অনুমোদনের জন্য \"আরোগ্য সেতু স্ট্যাটাস\" কোনও মুলতুবি অনুরোধ নেই";
+
+"few_seconds_ago" = "কয়েক সেকেন্ড আগে";
+
+"minute_ago" = "1 মিনিট আগে";
+
+"minutes_ago" = "%d মিনিট আগে";
+
+"today_at" = "Today at %@";
+
+"why" = " কেন ";
+
+"approve" = "অনুমোদন করা";
+
+"always_approve" = "সর্বদা অনুমোদন করুন";
+
+"reject" = "বাতিল করা";
+
+"request_approved" = "অনুরোধ অনুমোদিত হয়েছে";
+
+"request_approved_detail" = "%@ আপনার আরোগ্য সেতু স্ট্যাটাস একটিবারের অ্যাক্সেস পাবেন";
+
+"request_rejected" = "অনুরোধ প্রত্যাখ্যান করা হয়েছে";
+
+"request_always_approved" = "অনুরোধ অনুমোদিত হয়েছে";
+
+"request_always_approved_detail" = "%@ ভবিষ্যতের অনুরোধগুলির জন্য আপনার আরোগ্য সেতু স্ট্যাটাসটি অ্যাক্সেস করতে সক্ষম হবে। আপনি সেটিংস থেকে যে কোনও সময় এটি অক্ষম করতে পারেন";
+
+"request_rejected_detail" = "%@ আপনার আরোগ্য সেতু স্ট্যাটাস অ্যাক্সেস করতে সক্ষম হবে না";
+
+"approval_notification_title" = "আরোগ্য সেতু স্ট্যাটাস অ্যাক্সেস করার জন্য অনুরোধ";
+
+"approvals_preference_title" = "আরোগ্য সেতু স্ট্যাটাসের জন্য অনুমোদন";
+
+"approvals_no_preference_summary" = "বর্তমানে আপনার আরোগ্য সেতু স্ট্যাটাস অ্যাক্সেস করে এমন কোনও বাহ্যিক অ্যাপ নেই";
+
+"approvals_preference_summary" = "বাহ্যিক অ্যাপ্লিকেশনগুলি যা কেবল আপনার আরোগ্য সেতু স্ট্যাটাস অ্যাক্সেস করতে পারে।";
+
+"blocked" = "ব্লক করা";
+
+"always_ask" = "প্রতিবার অনুমোদনের জন্য জিজ্ঞাসা করুন";
+
+"of_request" = "%@ of %@ Requests";
+
+"auto_rejected" = "Auto Rejected";
+
+"report_abuse" = "অপব্যবহার রিপোর্ট করুন";
+
+"report_abuse_title" = "এই অনুরোধে কী ভুল?";
+
+"report_abuse_detail" = "সমস্যাটি বুঝতে আমাদের সহায়তা করুন";
+
+"didnt_initiate_request" = "আমি এই অনুরোধটি সূচনা করি নি";
+
+"report" = "প্রতিবেদন";
+
+"suspicious_spam" = "এটি সন্দেহজনক বা স্প্যাম";
+
+"other" = "অন্যান্য";
+
+"block" = "ব্লক করা";
+
+"approval_request_time_interval" = "এই অনুরোধটি %@ থেকে %@ পর্যন্ত ";
+
+"approvals_preference" = "অনুমোদনের পছন্দসমূহ";
+
+"error_select_option" = "একটি বিকল্প নির্বাচন করুন";
+
+"auto_approved" = "স্বয়ং অনুমোদিত";
+
+"status_check" = "স্ট্যাটাস চেক";
+
+"status_check_detail" = "এক স্থান থেকে আপনার নিকটতমদের আরোগ্য সেতু স্ট্যাটাস একটু চেক রাখুন।";
+
+"add" = "যুক্ত করা";
+
+"keep_a_check_on_app" = "আপনি এক স্থান থেকে আপনার নিকটবর্তী ব্যক্তির আরোগ্য সেতু স্ট্যাটাসটি চেক রাখতে পারেন";
+
+"add_account" = "অ্যাকাউন্ট যোগ করুন";
+
+"want_app_to_keep_check" = "অন্যরা কি আপনার আরোগ্য সেতু স্ট্যাটাস এর উপর নজর রাখতে চান?";
+
+"generate_and_share" = "আপনার কোড তৈরি করুন এবং শেয়ার করুন ";
+
+"remove" = "সরান";
+
+"registered_mobile_detail" = "এমন ব্যক্তির মোবাইল নম্বর লিখুন, যার সাথে আপনি নিজের আরোগ্য সেতু স্ট্যাটাস ভাগ করতে চান";
+
+"generate_code" = "কোড জেনারেট করুন";
+
+"enter_code" = "কোড লিখুন";
+
+"code" = "কোড";
+
+"get_code_detail" = "যাচাইকরণ এবং যুক্ত করার জন্য অ্যাকাউন্টধারীর কাছ থেকে অনন্য কোড পান";
+
+"verify_and_add" = "যাচাই করুন এবং যুক্ত করুন";
+
+"share_your_code" = "আপনার কোড শেয়ার করুন";
+
+"share_code_to_enable" = "আপনার স্ট্যাটাসটির উপর চেক রাখতে ফোন নম্বর (%@) দিয়ে ব্যবহারকারীকে সক্ষম করতে কোডটি শেয়ার করুন।";
+
+"please_enter_a_valid_code" = "একটি বৈধ কোড লিখুন দয়া করে";
+
+"share" = "শেয়ার";
+
+"copy" = "কপি";
+
+"code_valid_for" = "কোড 45 মিনিটের জন্য বৈধ";
+
+"forty_five_min" = "45 মিনিট";
+
+"permission_access_preference_title" = "স্ট্যাটাস অ্যাক্সেসের অনুমতি";
+
+"permission_access_preference_summary" = "বাহ্যিক অ্যাপ্লিকেশন বা ব্যবহারকারীরা যা আপনার আরোগ্য সেতু স্ট্যাটাস  অ্যাক্সেস করতে পারে।";
+
+"apps" = "অ্যাপস";
+
+"users" = "ব্যবহারকারীরা";
+
+"approvals_no_user_preference_summary" = "বর্তমানে আপনার আরোগ্য সেতু স্থিতি স্ট্যাটাস করে কোনও বহিরাগত ব্যবহারকারী নেই।";
+
+"approval_request_with_reason_title" = "%@ আপনার %@ স্ট্যাটাসটির জন্য %@ জন্য অনুরোধ করেছে";
+
+"approval_request_with_reason_and_time_title" = "%@ has requested for your %@ status from %@ to %@ for %@";

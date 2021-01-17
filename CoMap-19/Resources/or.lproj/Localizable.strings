@@ -1,0 +1,268 @@
+/* 
+  Localized.strings
+  CoMap-19
+
+ 
+*/
+
+
+"select_language" = "ଦୟାକରି ଆପଣଙ୍କର ଭାଷା ବାଛନ୍ତୁ |";
+"app_permissions" = "App Permissions";
+"bluetooth" = "ବ୍ଲୁଟୁଥ୍";
+"couldnot_recall" = "But I couldn’t recall everyone.";
+"country_code" = "+91";
+"cross_icon" = "X";
+"data_sharing_with_the_ministry" = "Data shared with the Government of India";
+"device_location" = "ଉପକରଣ ଅବସ୍ଥାନ";
+"english" = "English";
+"enter_mobile_number" = "ମୋବାଇଲ ନମ୍ବର ପ୍ରବେଶ କରନ୍ତୁ";
+"enter_otp" = "OTP ପ୍ରବେଶ କରନ୍ତୁ |";
+"resend_otp" = "OTP ପଠାନ୍ତୁ |";
+"first_fragment_label" = "First Fragment";
+"i_understand" = "ମୁ ବୁଝିଲି।";
+"immediately_info" = "I immediately provided the government with names of places I visited and people I met in the past 14 days.";
+"mobile_number" = "ମୋବାଇଲ୍ ନମ୍ବର";
+"next" = "ତା ପରେ";
+"otp" = "OTP";
+"permissions_detail" = "ଆମେ ଏହି ବିଷୟର ପ୍ରକୃତି ଏବଂ ସମ୍ବେଦନଶୀଳତାକୁ ବୁ understand ିପାରୁ ଏବଂ ଆପଣଙ୍କ ତଥ୍ୟର ସାଂଘାତିକ ନହେବାକୁ ନିଶ୍ଚିତ କରିବାକୁ ଦୃ strong ପଦକ୍ଷେପ ନେଇଛୁ |";
+"permissions_title" = "ସେବା ସର୍ତ୍ତାବଳୀ ଏବଂ ଗୋପନୀୟତା |";
+"please_select_a_language_en" = "Please select your language";
+"please_select_a_language_hi" = "Kripaya bhasha chunein";
+"please_select_a_language_to_proceed" = "Please select a language to proceed.";
+"previous" = "Previous";
+"register" = "Register";
+"second_fragment_label" = "Second Fragment";
+"submit" = "ଦାଖଲ କରନ୍ତୁ |";
+"swift_action" = "The government acted swiftly and quarantined these people and places, including my daughter’s school, and my friends and their families, too.";
+"thanks_map19" = "Thanks to MAP 19, I found out every place I visited and every person who was 5 ft away from me, in the past 14 days.";
+"title_activity_language_selection" = "LanguageSelectionActivity";
+"under_developement" = "Under Development";
+"we_have_sent_otp" = "ଆମେ ଆପଣଙ୍କ ମୋବାଇଲ୍ ନମ୍ବରକୁ OTP ପଠାଇଛୁ |";
+"why_is_it_needed" = "ଏହା କାହିଁକି ଆବଶ୍ୟକ?";
+"your_mobile_number_is_required_to_know_your_identity" = "ଯୋଗାଯୋଗ ଅନୁସନ୍ଧାନ ପାଇଁ ଆପଣଙ୍କର ମୋବାଇଲ୍ ନମ୍ବର ଆବଶ୍ୟକ |";
+"each_one_of_us" = "ଭାରତରେ କରୋନାଭାଇରସ୍ ମହାମାରୀର ପ୍ରସାରକୁ ରୋକିବାରେ ଆମର ପ୍ରତ୍ୟେକଙ୍କର ଶକ୍ତି ଅଛି |";
+"would_you_like" = "ଆପଣ ଯଦି କୌଣସି କୋଭିଡ- ୧୯ ପରୀକ୍ଷା କରିଥିବା ବ୍ୟକ୍ତି ସଂସ୍ପର୍ଶରେ ଆସିଥିଲେ ,ସେ ବିଷୟରେ ସୂଚନା ପ୍ରାପ୍ତ ଲାଗି ଚାହୁଁଛନ୍ତି କି?";
+"cowin20_tracks" = "Aarogya Setu ଟ୍ରାକ୍, ଏକ ବ୍ଲୁଟୁଥ୍ ଏବଂ ଲୋକେସନ ମାଧ୍ୟମରେ ସାମାଜିକ ଗ୍ରାଫ୍ ସୃଷ୍ଟି କରିଛି, COVID-19 ପଜିଟିଭ୍ ପରୀକ୍ଷା କରିଥାଇ ପାରନ୍ତି |";
+"simply_install" = "ସରଳ ଭାବରେ |\n1. ଆପ୍ ସଂସ୍ଥାପନ କରନ୍ତୁ |\n2. ବ୍ଲୁଟୁଥ୍ ଏବଂ ଅବସ୍ଥାନ ସୁଇଚ୍ କରନ୍ତୁ |\n3. 'ସର୍ବଦା' ରେ ଅବସ୍ଥାନ ଅଂଶୀଦାର ସେଟ୍ କରନ୍ତୁ |\n\nଆପ୍ ସଂସ୍ଥାପନ କରିବାକୁ ଆପଣଙ୍କର ସାଙ୍ଗ ଏବଂ ପରିବାରକୁ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ |";
+"you_will_be_alerted" = "ଯଦି ଆପଣ ଅଜାଣତ ରେ କୌଣସି କୋଭିଡ -୧୯ ପଜିଟିଭ୍ ବ୍ୟକ୍ତି ସମ୍ପର୍କ ରେ ଆସନ୍ତି ତେବେ ଆପଣଂକୁ ସୂଚେଇ ଦିୟା ଯିବ";
+"the_app_alerts" = "ଆପ୍ ଆଲର୍ଟଗୁଡିକ କିପରି ଆତ୍ମ-ବିଚ୍ଛିନ୍ନ ହେବ ଏବଂ ଯଦି ଆପଣ ଲକ୍ଷଣଗୁଡିକ ବିକଶିତ କରନ୍ତି ତେବେ କଣ କରିବେ ସେ ସମ୍ବନ୍ଧରେ ନିର୍ଦ୍ଦେଶନାମା ସହିତ ଆସିଥାଏ ଯାହା ସାହାଯ୍ୟ ଏବଂ ସମର୍ଥନ ଆବଶ୍ୟକ କରିପାରନ୍ତି |";
+"with_cowin20" = "Aarogya Setu ସହିତ, ଆପଣ ନିଜକୁ, ଆପଣଙ୍କ ପରିବାର ଏବଂ ବନ୍ଧୁମାନଙ୍କୁ ସୁରକ୍ଷା ଦେଇପାରିବେ ଏବଂ COVID-19 ସହିତ ଲ to ିବା ପାଇଁ ଆମ ଦେଶକୁ ସାହାଯ୍ୟ କରିପାରିବେ |";
+"please_upgrade" = "Please Upgrade";
+"upgrade" = "Upgrade";
+"please_download_latest_version" = "Please download latest version of %@ to continue using its safety services.";
+"data_sharing_with_moh" = "ଡାଟା ସେୟାର୍ |";
+"sets_your_location" = "ଏହା ପରାମର୍ଶିତ ଯେ ତୁମେ ତୁମର ଅବସ୍ଥାନ ଅଂଶୀଦାରକୁ ‘ସର୍ବଦା’ ସେଟ୍ କର | ଆପଣ ଏହାକୁ ଯେକ time ଣସି ସମୟରେ ପରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ |";
+"monitors_your_device" = "ଅନ୍ୟ ଏକ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସହିତ ଆପଣଙ୍କର ଡିଭାଇସର ନିକଟତରତା ଉପରେ ନଜର ରଖେ | ଆପଣ ଏହାକୁ ସର୍ବଦା ରଖିବା ପାଇଁ ପରାମର୍ଶ ଦିଆଯାଇଛି |";
+"data_will_be_sent_only_to_moi" = "ଆପଣଙ୍କର ତଥ୍ୟ କେବଳ ଭାରତ ସରକାରଙ୍କ ସହ ଅଂଶୀଦାର ହେବ | ଆପ୍ ଆପଣଙ୍କ ନାମ ଏବଂ ନମ୍ବରକୁ ଯେକ time ଣସି ସମୟରେ ଜନସାଧାରଣଙ୍କ ନିକଟରେ ପ୍ରକାଶ କରିବାକୁ ଅନୁମତି ଦିଏ ନାହିଁ |";
+"contribute_to_a_safer_india" = "ମୁଁ ସହମତ";
+"register_now" = "ବର୍ତ୍ତମାନ ପଞ୍ଜିକରଣ କରନ୍ତୁ";
+"why_is_it_needed_sub_title" = "କୁହ, ତୁମେ ଏକ ସପ୍ତାହରେ ଏକ ସମାବେଶରେ କାହାକୁ ଭେଟିଥିଲ କିମ୍ବା ସର୍ବସାଧାରଣ ସ୍ଥାନରେ ଅଜ୍ଞାତ ବ୍ୟକ୍ତିଙ୍କ ନିକଟତର ହୋଇଥିଲ ଏବଂ କିଛି ଦିନ ମଧ୍ୟରେ ସେମାନେ COVID-19 ପାଇଁ ପଜିଟିଭ୍ ପରୀକ୍ଷା କରିଥିଲେ |\n\nବିଗତ 14 ଦିନ ମଧ୍ୟରେ ଭାରତ ସରକାର ସେହି ବ୍ୟକ୍ତିଙ୍କ ସମସ୍ତ ସ୍ପର୍ଶ ପଏଣ୍ଟଗୁଡ଼ିକୁ ସକ୍ରିୟ ଡିଭାଇସ୍ ମାଧ୍ୟମରେ ଇନଷ୍ଟଲ୍ ହୋଇଥିବା ଆପ୍ ସହିତ ଅନୁସନ୍ଧାନ କରିବେ।\n\nପରବର୍ତ୍ତୀ କାର୍ଯ୍ୟ ପ୍ରକ୍ରିୟା, ଆତ୍ମ-ପୃଥକ କରିବା କିମ୍ବା ଆବଶ୍ୟକତା ଅନୁଯାୟୀ ନିକଟସ୍ଥ ପରୀକ୍ଷା କେନ୍ଦ୍ରରେ ପରୀକ୍ଷା କରିବା ପାଇଁ ଏକ ପରାମର୍ଶଦାତା ସହିତ ଏହିପରି ସମସ୍ତ ସମ୍ପର୍କକୁ ଏକ ବିଜ୍ଞପ୍ତି ପଠାଯିବ |\n\nସକ୍ରିୟ ଯୋଗାଯୋଗ ଅନୁସନ୍ଧାନରେ ଅଂଶଗ୍ରହଣ କରି, ଆପଣ ଆମକୁ COVID-19 ର ବିସ୍ତାରକୁ କମ୍ କରିବାରେ ସାହାଯ୍ୟ କରିବେ ଏବଂ ଆପଣଙ୍କ ସ୍ୱାସ୍ଥ୍ୟ ଏବଂ କଲ୍ୟାଣ ପାଇଁ ସକ୍ରିୟ ପଦକ୍ଷେପ କାର୍ଯ୍ୟକାରୀ କରିବାକୁ ଭାରତ ସରକାରଙ୍କୁ ସକ୍ଷମ କରିବେ |";
+"ok" = "ଠିକ୍ ଅଛି";
+"close" = "ବନ୍ଦ";
+"terms_n_conditions" = "Terms & Conditions";
+"try_again" = "Try Again";
+"settings" = "Settings";
+"internet_connection_lost" = "Internet Connection Lost";
+"make_sure_your_phone_is_connected_to_wifi" = "Make sure your phone is connected to the WiFi or switch to mobile data.";
+"permission_screen_tnc" = "ଯଦି ଆପଣ ଏକ ନିରାପଦ ଭାରତରେ ଯୋଗଦାନ କରିବାକୁ ଚାହାଁନ୍ତି ଦୟାକରି ନିମ୍ନୋକ୍ତ ବଟନ୍ ଉପରେ କ୍ଲିକ୍ କରି ସେବା ସର୍ତ୍ତାବଳୀ ଏବଂ ଗୋପନୀୟତା ନୀତିକୁ ଗ୍ରହଣ କରନ୍ତୁ ବୋଲି ସୂଚିତ କରନ୍ତୁ:";
+"share_app_message" = "COVID19 ବିରୋଧରେ ଲ fight ିବା ପାଇଁ ମୁଁ ଏହି ଆପକୁ ସୁପାରିଶ କରେ | ଦୟାକରି ଏହି ଲିଙ୍କ୍ ବ୍ୟବହାର କରି ଏହାକୁ ଡାଉନଲୋଡ୍ ଏବଂ ଅଂଶୀଦାର କରନ୍ତୁ | ";
+"turn_on" = "Turn On";
+"later" = "Later";
+"location_alert_title" = "Turn on Location";
+"location_alert_subtitle" = "Location must be set to Always, to track your history and give you accurate safety updates.";
+"bluetooth_alert_title" = "Turn on Bluetooth";
+"bluetooth_alert_subtitle" = "Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.";
+"upload_consent_title" = "ଆପଣଙ୍କର ଡାଟା ସଦାସର୍ବଦା ଆପଣଙ୍କର ଫୋନ୍‌ରେ ସେଭ୍ ହୋଇଥାଏ. ଯଦି ଆପଣଙ୍କର COVID-19 ଟେଷ୍ଟ ପଜିଟିଭ୍ ଆସିଛି କିମ୍ବା ଏବେ ଆପଣଙ୍କର ପରୀକ୍ଷା କରାଯାଉଛି, ତେବେ ଆପଣ ସରକାରଙ୍କୁ ଏହା ବାବଦରେ ଜଣାଇପାରିବେ. ଯେତେବେଳେ ଆପଣ ଏହା ଜଣାଇବେ, ସେତେବେଳେ ସରକାରଙ୍କ ନିକଟରେ ଆପଣଙ୍କର ଡାଟା ଅପଲୋଡ୍ କରିବାକୁ ହେବ.";
+"upload_consent_subtitle" = "ମୁଁ କନଫର୍ମ କରୁଛି";
+"being_tested" = "ଏବେ ମୋର COVID-19 ଟେଷ୍ଟ କରାଯାଉଛି";
+"tested_positive" = "ମୋର COVID-19 ଟେଷ୍ଟ ପଜିଟିଭ୍ ଆସିଛି";
+"none_of_above" = "ଏଥି ମଧ୍ୟରୁ କେଉଁଟି ବି ମୋ ପାଇଁ ପ୍ରଯୁଜ୍ୟ ନୁହେଁ";
+"to_help_contact_tracing" = "ଯୋଗାଯୋଗ ବିଷୟରେ ଅନୁସନ୍ଧାନ ଜାଣିବାରେ ସାହାଯ୍ୟ କରିବାକୁ, ବ୍ଲୁଟୁଥ୍ ଏବଂ ଜିପିଏସ୍ ସେବା ମାଧ୍ୟମରେ କ୍ୟାପ୍ଚର କରାଯାଇଥିବା ଆପଣଙ୍କର ପାରସ୍ପରିକ ତଥ୍ୟ ଭାରତ ସରକାରଙ୍କ ସହ ସେୟାର୍ କରାଯିବ |";
+"confirm_proceed" = "ନିଶ୍ଚିତ କରନ୍ତୁ ଏବଂ ଆଗକୁ ବଢନ୍ତୁ";
+"syncingData" = "ଡାଟା ସିଙ୍କ୍ ହେଉଛି";
+"sending_interaction_data" = "ବ୍ଲୁଟୁଥ୍ ଏବଂ ଜିପିଏସ୍ ସେବା ମାଧ୍ୟମରେ କ୍ୟାପ୍ଚର୍ କରାଯାଇଥିବା ପାରସ୍ପରିକ ତଥ୍ୟ ଭାରତ ସରକାରଙ୍କୁ ପଠାଯାଉଛି ।";
+"cancel" = "ବାତିଲ୍ କରନ୍ତୁ";
+"sync_failed" = "ସିଙ୍କ୍ ବିଫଳ ହେଲା";
+"retry" = "ପୁଣିଚେଷ୍ଟା କରନ୍ତୁ";
+"something_went_wrong_please_retry"= "କିଛି ଭୁଲ ହେଉଛି, ଦୟାକରି ପୁଣିଚେଷ୍ଟା କରନ୍ତୁ |";
+"sync_successful" = "ସିଙ୍କ୍ ସଫଳ ହୋଇଛି";
+"your_data_secured" = "ଆପଣଙ୍କର ତଥ୍ୟ ବର୍ତ୍ତମାନ ଭାରତ ସରକାରଙ୍କ ସର୍ଭରରେ ସୁରକ୍ଷିତ ଅଛି |.";
+"rating_title" = "Rate us on the App Store to help make Aarogya Setu even better.";
+"not_now" = "Not Now";
+"rate_now" = "Rate Now";
+"scan_Qr_Code_To_Get_My_Health_Status"= "ନିଜର ସ୍ୱାସ୍ଥ୍ୟ ସ୍ଥିତି ପାଇବାକୁ QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ";
+"refresh_Qr_Code"= "QR କୋଡ୍ ରିଫ୍ରେଶ କରିବାକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ";
+"qr_Code_Valid_For"= "QR କୋଡ୍ ବୈଧ୍ୟ";
+"to_Generate_Qr_Ble_And_Gps_Must_Be_ON"= "To generate QR code, Bluetooth & GPS must be in “ON” state";
+"turn_On_Ble_And_Gps"= "Turn on Bluetooth & GPS";
+"turn_On_Ble"= "Turn on Bluetooth";
+"turn_On_Gps"= "Turn on GPS";
+"qr_Code_Is_Expired"= "QR Code is Expired";
+"expired_qr_code"= "ମିଆଦ ପୂର୍ଣ୍ଣ QR କୋଡ୍";
+"please_request_the_person_to_generate_new_code"= "ଦୟାକରି ନୂତନ କୋଡ୍ ସୃଷ୍ଟି କରିବାକୁ ବ୍ୟକ୍ତିଙ୍କୁ ଅନୁରୋଧ କରନ୍ତୁ";
+"low_risk_of_infection"= "%@ ସଂକ୍ରମଣର କମ୍ ବିପଦ ଅଛି";
+"moderate_risk_of_infection"= "%@ ସଂକ୍ରମଣର ମଧ୍ୟମ ବିପଦ ଅଛି";
+"high_risk_of_infection"= "%@ ସଂକ୍ରମଣର ଆଶଙ୍କା ଅଧିକ";
+"tested_positive_for_covid19"= "%@ କୋଭିଡ -୧୯ ପଜିଟିଭ୍ ଆସିଛନ୍";
+"invalid_qr_code"= "ଅବୈଧ୍ୟ QR କୋଡ୍";
+"not_generated_by_official_app"= "ସରକାରୀ ଆରୋଗ୍ୟ ସେତୁ ଆପ୍ ଦ୍ୱାରା ଏହା ସୃଷ୍ଟି ହୋଇନାହିଁ";
+"app_version"= "ଆପ୍ ସଂସ୍କରଣ";
+"share_data_gov"= "ସରକାରଙ୍କୁ ତଥ୍ୟ ଜଣାନ୍ତୁ";
+"share_data_positive"= "ଯଦି ଆପଣ କୋଭିଡ -୧୯ ପଜିଟିଭ୍ ଆସିଛନ୍ତି କିମ୍ବା ବର୍ତ୍ତମାନ ପରୀକ୍ଷା କରାଯାଉଛି ତେବେ ଜଣାନ୍ତୁ";
+"call_helpline"= "ହେଲ୍ପଲାଇନକୁ କଲ୍ କରନ୍ତୁ (୧୦୭୫ )";
+"health_ministry_toll_free"= "କୋଭିଡ -୧୯ ସମ୍ବନ୍ଧୀୟ ପ୍ରଶ୍ନଗୁଡିକ ପାଇଁ ସ୍ୱାସ୍ଥ୍ୟ ମନ୍ତ୍ରଣାଳୟର ଟୋଲ୍ ଫ୍ରି ହେଲ୍ପଲାଇନ";
+"qr_code"= "ସୃଷ୍ଟି କରନ୍ତୁ/QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ";
+"privacy_policy"= "ଗୋପନୀୟତା ନୀତି";
+"terms_use"= "ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ";
+"tool_tip"= "A lot of new Features like Helpline, Privacy Policy, Terms of Use and more can be found here.";
+"scan_qr_code"= "ଅନ୍ୟର QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ";
+"generate_my_qr_code"= "ମୋର QR କୋଡ୍ ତିଆରି କରନ୍ତୁ";
+"scan_qr_prompt"= "ଅନ୍ୟର ସ୍ୱାସ୍ଥ୍ୟ ସ୍ଥିତି ଯାଞ୍ଚ କରିବାକୁ QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ";
+
+"delete_account_title" = "ମୋର ଆକାଉଣ୍ଟ୍ ଡିଲିଟ୍ କରନ୍ତୁ |";
+
+"delete_account_summary" = "ତୁମେ ତୁମର ଆକାଉଣ୍ଟକୁ ସବୁଦିନ ପାଇଁ ଡିଲିଟ୍ କରି ସମସ୍ତ ଡାଟାକୁ ଲିଭେଇ ଦେଇ ପାରିବେ | ";
+
+"delete_account_confirm" = "ଆପଣଙ୍କର ଆକାଉଣ୍ଟ ଡ଼ିଲିଟିଙ୍ଗ ପ୍ରକ୍ରିୟା ଜାରି ରଖିବାକୁ, ଦୟାକରି ଆପଣଙ୍କର ମୋବାଇଲ୍ ନମ୍ବର ନିଶ୍ଚିତ କରନ୍ତୁ |";
+
+"delete_account" = "ଆକାଉଣ୍ଟ ଡିଲିଟ କରନ୍ତୁ";
+
+"approvals" = "ଅନୁମୋଦନ";
+
+"view_request" = "ଅନୁରୋଧଗୁଡିକ ଦେଖନ୍ତୁ";
+
+"approval_request_title" = "%@ ଆପଣଙ୍କ ପାଇଁ ଅନୁରୋଧ ହେଇଛି %@ ସ୍ଥିତି";
+
+"always_approved" = "ସର୍ବଦା ଅନୁମୋଦିତ";
+
+"approved" = "ଅନୁମୋଦିତ";
+
+"rejected" = "ପ୍ରତ୍ୟାଖ୍ୟାନ";
+
+"no_pending_approval_title" = "କୌଣସି ବକେୟା ଅନୁରୋଧ ନାହିଁ |";
+
+"no_pending_approval_detail" = "ଆପଣଙ୍କ ଅନୁମୋଦନ ପାଇଁ “ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତି” ର କୌଣସି ବକେୟା ଅନୁରୋଧ ନାହିଁ |";
+
+"few_seconds_ago" = "କିଛି ସେକେଣ୍ଡ ପୂର୍ବରୁ";
+
+"minute_ago" = "୧ ମିନିଟ୍ ପୂର୍ବରୁ |";
+
+"minutes_ago" = "%d ମିନିଟ୍ ପୂର୍ବରୁ";
+
+"today_at" = "ଆଜି %@";
+
+"why" = " କାହିଁକି ";
+
+"approve" = "ଅନୁମୋଦନ";
+
+"always_approve" = "ସର୍ବଦା ଅନୁମୋଦନ କରନ୍ତୁ |";
+
+"reject" = "ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ |";
+
+"request_approved" = "ଅନୁରୋଧ ଅନୁମୋଦିତ";
+
+"request_approved_detail" = "%@ ତୁମର ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତିକୁ ଥରେ ଆକ୍ସେସ୍ ପାଇବେ  |";
+
+"request_rejected" = "ଅନୁରୋଧ ପ୍ରତ୍ୟାଖ୍ୟାନ ହୋଇଛି";
+
+"request_always_approved" = "ଅନୁରୋଧ ଅନୁମୋଦିତ ହୋଇଛି";
+
+"request_always_approved_detail" = "%@ ତୁମର ଭବିଷ୍ୟତର ଅନୁରୋଧ ପାଇଁ ମଧ୍ୟ ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରିବାକୁ ସମର୍ଥ ହେବ | ଆପଣ ଏହାକୁ ଯେକୌଣସି ସମୟରେ ସେଟିଂରୁ ଡିଶାବିଲ କରିପାରିବେ";
+
+"request_rejected_detail" = "%@ ତୁମର ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରିବାକୁ ସମର୍ଥ ହେବ ନାହିଁ";
+
+"approval_notification_title" = "ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରିବାକୁ ଅନୁରୋଧ କରନ୍ତୁ |";
+
+"approvals_preference_title" = "ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତି ପାଇଁ ଅନୁମୋଦନ କରନ୍ତୁ";
+
+"approvals_no_preference_summary" = "ସମ୍ପ୍ରତି ଆପଣଙ୍କର ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରୁଥିବା କୌଣସି ବାହ୍ୟ ଆପ୍ ନାହିଁ |";
+
+"approvals_preference_summary" = "ବାହ୍ୟ ଆପ୍ସ ଯାହା କେବଳ ଆପଣଙ୍କର ଆରୋଗ୍ୟ ସେତୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରିପାରିବ |";
+
+"blocked" = "ଅବରୋଧିତ |";
+
+"always_ask" = "ପ୍ରତ୍ୟେକ ଥର ଅନୁମୋଦନ ଲାଗି ପଚାରୁ |";
+
+"of_request" = "%@ ର %@ ଅନୁରୋଧ";
+
+"auto_rejected" = "Auto Rejected";
+
+"report_abuse" = "ଅପବ୍ୟବହାର ରିପୋର୍ଟ କରନ୍ତୁ";
+
+"report_abuse_title" = "ଏହି ଅନୁରୋଧରେ କ’ଣ ଭୁଲ୍ ଅଛି?";
+
+"report_abuse_detail" = "ସମସ୍ୟା ବୁଝିବାରେ ଆମକୁ ସାହାଯ୍ୟ କରନ୍ତୁ |";
+
+"didnt_initiate_request" = "ମୁଁ ଏହି ଅନୁରୋଧ କରି ନାହିଁ";
+
+"report" = "ଜଣାନ୍ତୁ";
+
+"suspicious_spam" = "ଏହା ସନ୍ଦେହଜନକ କିମ୍ବା ସ୍ପାମ୍";
+
+"other" = "ଅନ୍ୟମାନେ";
+
+"block" = "ଅବରୋଧ କରନ୍ତୁ";
+
+"approval_request_time_interval" = "ଏହି ଅନୁରୋଧଟି ହେଉଛି%@ to %@ ";
+
+"approvals_preference" = "ଅନୁମୋଦନ ପସନ୍ଦ";
+
+"error_select_option" = "ଦୟାକରି ଏକ ବିକଳ୍ପ ବାଛନ୍ତୁ";
+
+"auto_approved" = "ସ୍ୱୟଂ ଅନୁମୋଦିତ";
+
+"status_check" = "ସ୍ଥିତି ଯାଞ୍ଚ";
+
+"status_check_detail" = "ଗୋଟିଏ ସ୍ଥାନରୁ ଆପଣଙ୍କର ଘନିଷ୍ଠ ବ୍ୟକ୍ତିଙ୍କ ଆରୋଗିଆ ସେତୁ ସ୍ଥିତି ଉପରେ ଏକ ନଜର ରଖନ୍ତୁ";
+
+"add" = "ଯୋଡନ୍ତୁ";
+
+"keep_a_check_on_app" = "ଆପଣ ଗୋଟିଏ ସ୍ଥାନରୁ ଆପଣଙ୍କର ଘନିଷ୍ଠ ବ୍ୟକ୍ତିଙ୍କ ଆରୋଗିଆ ସେତୁ  ସ୍ଥିତି ଉପରେ ଏକ ନଜର ରଖିପାରିବେ";
+
+"add_account" = "ଆକାଉଣ୍ଟ ଆଡ଼ କରନ୍ତୁ";
+
+"want_app_to_keep_check" = "ଆପଣଙ୍କର ଆରୋଗିଆ ସେଟୁ ସ୍ଥିତି ଉପରେ ଅନ୍ୟମାନେ ଏକ ନଜର ରଖନ୍ତୁ ବୋଲି ଚାହୁଁଛନ୍ତି କି?";
+
+"generate_and_share" = "ଆପଣଙ୍କର କୋଡ୍ ସୃଷ୍ଟି ଏବଂ ସେଆର କରନ୍ତୁ ";
+
+"remove" = "ରିମୁଭ କରନ୍ତୁ";
+
+"registered_mobile_detail" = "ବ୍ୟକ୍ତିଙ୍କ ମୋବାଇଲ୍ ନମ୍ବର ଏଣ୍ଟେର କରନ୍ତୁ, ଯାହାଙ୍କ ସହିତ ଆପଣ ଆପଣଙ୍କର ଆରୋଗିଆ ସେତୁ ସ୍ଥିତି ସେଆର କରିବାକୁ ଚାହୁଁଛନ୍ତି";
+
+"generate_code" = "କୋଡ୍ ସୃଷ୍ଟି କରନ୍ତୁ";
+
+"enter_code" = "କୋଡ୍ ଏଣ୍ଟେର କରନ୍ତୁ";
+
+"code" = "କୋଡ୍";
+
+"get_code_detail" = "ଯାଞ୍ଚ ଏବଂ ଯୋଡିବା ପାଇଁ ଆକାଉଣ୍ଟ ଧାରକଙ୍କ ଠାରୁ ଅନନ୍ୟ କୋଡ୍ ପାଆନ୍ତୁ |";
+
+"verify_and_add" = "ଯାଞ୍ଚ ଏବଂ ଯୋଡନ୍ତୁ";
+
+"share_your_code" = "ଆପଣଙ୍କର କୋଡ୍ ସେଆର କରନ୍ତୁ";
+
+"share_code_to_enable" = "ଆପଣଙ୍କର ସ୍ଥିତି ଉପରେ ଏକ ନଜର ରଖିବାକୁ ଫୋନ୍ ନମ୍ବର(%@) ସହିତ ଉପଭୋକ୍ତାଙ୍କୁ ସକ୍ଷମ କରିବାକୁ କୋଡ୍ ସେଆର କରନ୍ତୁ |";
+
+"please_enter_a_valid_code" = "ଦୟାକରି ଏକ ବୈଧ୍ୟ କୋଡ୍ ଏଣ୍ଟେର କରନ୍ତୁ";
+
+"share" = "ସେଆର କରନ୍ତୁ";
+
+"copy" = "କପି କରନ୍ତୁ";
+
+"code_valid_for" = "କୋଡ୍ ୪୫ ମିନିଟ୍ ପାଇଁ ବୈଧ୍ୟ";
+
+"forty_five_min" = "୪୫ ମିନିଟ୍";
+
+"permission_access_preference_title" = "ପ୍ରବେଶ ସ୍ଥିତିକୁ ଅନୁମତି";
+
+"permission_access_preference_summary" = "ବାହ୍ୟ ଆପ୍ କିମ୍ବା ଉପଭୋକ୍ତା ଯାହା ଆପଣଙ୍କର ଆରୋଗିଆ ସେଟୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରିପାରିବ |";
+
+"apps" = "ଆପ୍ଲିକେସନ୍";
+
+"users" = "ବ୍ୟବହାରକାରୀ";
+
+"approvals_no_user_preference_summary" = "ସମ୍ପ୍ରତି ଆପଣଙ୍କର ଆରୋଗିଆ ସେତୁ ସ୍ଥିତିକୁ ପ୍ରବେଶ କରୁଥିବା କୌଣସି ବାହ୍ୟ ବ୍ୟବହାରକାରୀ ନାହାଁନ୍ତି |";
+
+"approval_request_with_reason_title" = "%@ଆପଣଙ୍କର ସ୍ଥିତି ପାଇଁ ଅନୁରୋଧ କରିଛନ୍ତି %@ ସ୍ଥିତି ପାଇଁ  %@";
+
+"approval_request_with_reason_and_time_title" = "%@ସ୍ଥିତି ପାଇଁ ଅନୁରୋଧ କରିଛି%@ status from %@ to %@ for %@";

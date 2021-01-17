@@ -1,0 +1,266 @@
+/* 
+  Localized.strings
+  CoMap-19
+
+ 
+*/
+
+
+"select_language" = "कृपया अपनी भाषा चुनें";
+"app_permissions" = "App Permissions";
+"bluetooth" = "ब्लूटूथ";
+"couldnot_recall" = "But I couldn’t recall everyone.";
+"country_code" = "+91";
+"cross_icon" = "X";
+"data_sharing_with_the_ministry" = "Data shared with the Government of India";
+"device_location" = "मोबाइल लोकेशन";
+"english" = "English";
+"enter_mobile_number" = "मोबाइल नंबर एंटर करें";
+"enter_otp" = "OTP एंटर करें";
+"resend_otp" = "ओटीपी पुनः भेजें";
+"first_fragment_label" = "First Fragment";
+"i_understand" = "मै समझता हुँ";
+"immediately_info" = "I immediately provided the government with names of places I visited and people I met in the past 14 days.";
+"mobile_number" = "मोबाइल नंबर";
+"next" = "आगे";
+"otp" = "ओटीपी";
+"permissions_detail" = "हम इस विषय की संवेदनशीलता को समझते हैं और आपको सुनिश्चित करते हैं कि आपके द्वारा दी गई जानकारी को सुरक्षित रखने के लिए उचित उपाय किए गए हैं|";
+"permissions_title" = "सेवा और गोपनीयता की शर्तें";
+"please_select_a_language_en" = "Please select your language";
+"please_select_a_language_hi" = "Kripaya bhasha chunein";
+"please_select_a_language_to_proceed" = "Please select a language to proceed.";
+"previous" = "Previous";
+"register" = "Register";
+"second_fragment_label" = "Second Fragment";
+"submit" = "सबमिट करें";
+"swift_action" = "The government acted swiftly and quarantined these people and places, including my daughter’s school, and my friends and their families, too.";
+"thanks_map19" = "Thanks to MAP 19, I found out every place I visited and every person who was 5 ft away from me, in the past 14 days.";
+"title_activity_language_selection" = "LanguageSelectionActivity";
+"under_developement" = "Under Development";
+"we_have_sent_otp" = "हमने आपके मोबाइल नंबर पर OTP भेजा है।";
+"why_is_it_needed" = "इसकी आवश्यकता?";
+"your_mobile_number_is_required_to_know_your_identity" = "कॉन्‍टैक्‍ट ट्रेसिंग के लिए आपका मोबाइल नंबर आवश्यक है।";
+"each_one_of_us" = "हम सभी में भारत में फैल रही कोरोना वायरस महामारी को रोकने की क्षमता है।";
+"would_you_like" = "क्या आप चाहते हैं कि आपको यह जानकारी मिले कि कहीं आपके संपर्क में आया हुआ कोई व्‍यक्ति COVID-19 पॉजिटिव तो नहीं पाया गया है?";
+"cowin20_tracks" = "ब्लूटूथ और लोकेशन जेनेरेटेड सोशल ग्राफ की मदद से, आरोग्य सेतु कोरोना पॉजिटिव लोगों के साथ आपके संभवतः संपर्क को ट्रैक करता है।";
+"simply_install" = "सबसे पहले,\n१ ऐप इंस्‍टॉल करें \n२. ब्‍लूटूथ और लोकेशन को स्विच ऑन करें \n३. अपनी लोकेशन शेयरिंग को ‘Always’ पर सेट करें \n\nअपने दोस्तों और परिवार को भी ऐप इंस्टॉल करने के लिए आमंत्रित करें।";
+"you_will_be_alerted" = "यदि आप जाने-अनजाने में किसी COVID-19 पॉजिटिव व्यक्ति के संपर्क में आते हैं\nतो आपको सूचित किया जाएगा।";
+"the_app_alerts" = "ऐप अलर्ट के माध्यम से निर्देश दिए जाएंगे ।\n\nयदि आपको सेल्‍फ-आइसोलेट होने की आवश्यकता है,\nया आप में COVID-19 के लक्षण विकसित होते हैं,\nतो उस परिस्थिति में सहायता की जाएगी ।";
+"with_cowin20" = "आरोग्य सेतु के साथ आप स्वयं की, अपने परिवार और मित्रों की COVID-19 से सुरक्षा कर सकते हैं,\nऔर राष्ट्र को इससे लड़ने में सहायता कर सकते हैं ।\n\nहम सुरक्षित, तो भारत सुरक्षित ।";
+"please_upgrade" = "कृपया अप्ग्रेड  करें";
+"upgrade" = "अप्ग्रेड";
+"please_download_latest_version" = "अपनी सुरक्षा सेवाओं का उपयोग जारी रखने के लिए कृपया %@ का नवीनतम वर्ज़न डाउनलोड करें।";
+"data_sharing_with_moh" = "डाटा शेयरिंग";
+"sets_your_location" = "आप से अनुरोध है की आप अपने मोबाइल के लोकेशन को 'Always' पर सेट करें।\nआप इसे बाद में कभी भी बदल सकते हैं।";
+"monitors_your_device" = "ब्‍लूटूथ आपके मोबाइल की आस-पास के अन्य मोबाइल की निकटता अनुमानित करने में मदद करता है।\nयह आप से अनुरोध है कि आप इसे हमेशा ऑन रखें।";
+"data_will_be_sent_only_to_moi" = "आपकी डेटा केवल भारत सरकार के साथ शेयर की जाएगी ।\nये ऐप आपके नाम और नंबर का खुलासा किसी अन्य के साथ नहीं करेगा ।";
+"contribute_to_a_safer_india" = "मैं सहमत हूँ";
+"register_now" = "रजिस्टर करें";
+"why_is_it_needed_sub_title" = "मान लीजिए, आप एक हफ्ते पहले, किसी सभा या सार्वजनिक स्थान पर किसी अनजान व्यक्ति से मिले या उनके करीबी संपर्क में आये, और कुछ दिनों बाद वह व्यक्ति COVID-19 पॉज़िटिव पाया गया।\n\nऐसे में भारत सरकार इस ऐप की मदद से, पिछले १४ दिनों में, उस व्यक्ति के करीब आए लोगों का पता लगा लेगी।\n\nइसके बाद, उन सभी संपर्कों को आगे की कार्रवाई के लिए सूचित किया जाएगा और सलाह दी जाएगी कि आगे क्या करना चाहिए - अलग-थलग होना चाहिए या टेस्ट करवाना चाहिए।\n\nसक्रिय संपर्क ट्रेसिंग में अपना योगदान दे कर, आप भारत सरकार को COVID-19 के प्रसार को कम करने में, और आपके स्वास्थ्य और कल्याण के लिए प्रभावी उपाय लागू करने में मदद करेंगे।";
+"ok" = "ठीक";
+"close" = "बंद करे";
+"terms_n_conditions" = "नियम एवं शर्तें";
+"try_again" = "पुनः प्रयास करें";
+"settings" = "समायोजन";
+"internet_connection_lost" = "इंटरनेट कनेक्शन खो गया";
+"make_sure_your_phone_is_connected_to_wifi" = "Make sure your phone is connected to the WiFi or switch to mobile data.";
+"permission_screen_tnc" = "यदि आप कोरोना वायरस मुक्त भारत में योगदान देना चाहते हैं, तो कृपया नीचे दिए गए बटन पर क्लिक करके सेवा और गोपनीयता की शर्तों को अपनी स्वीकृति दें।";
+"share_app_message" = "COVID-19 से लड़ने के लिए, मैं इस एप्लिकेशन का अनुग्रह करता हूँ। इस लिंक के द्वारा इसे डाउनलोड और साझा करें ।";
+"turn_on" = "Turn On";
+"later" = "Later";
+"location_alert_title" = "Turn on Location";
+"location_alert_subtitle" = "Location must be set to Always, to track your history and give you accurate safety updates.";
+"bluetooth_alert_title" = "Turn on Bluetooth";
+"bluetooth_alert_subtitle" = "Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.";
+"upload_consent_title" = "आपका डेटा हमेशा आपके फोन पर सेव किया जाता है. अगर आपका COVID-19 का टेस्ट पॉजिटिव आया है या वर्तमान में आपका टेस्ट किया जा रहा है, तो आप इसे सरकार को रिपोर्ट कर सकते हैं. जब आप ऐसा करते हैं, तो सरकार आपका डेटा अपलोड करेगी.";
+"upload_consent_subtitle" = "मैं कन्फर्म करता/करती हूं";
+"being_tested" = "वर्तमान में मेरा COVID-19 का टेस्ट किया जा रहा है";
+"tested_positive" = "मेरा COVID-19 का टेस्ट पॉजिटिव आया है";
+"none_of_above" = "इनमें से कोई भी मेरे लिए लागू नहीं होता";
+"to_help_contact_tracing" = "कॉन्टैक्ट ट्रेसिंग में मदद करने के लिए, ब्लूटूथ और GPS के माध्यम से कैप्चर किए गए आपके संवाद डेटा को भारत सरकार के साथ शेयर किया जाएगा.";
+"confirm_proceed" = "कन्फर्म करें और आगे बढ़ें";
+"syncingData" = "डेटा सिंक हो रहा है";
+"sending_interaction_data" = "भारत सरकार को ब्लूटूथ और GPS के माध्यम से प्राप्त संवाद डेटा भेजा जा रहा है";
+"cancel" = "कैंसल करें";
+"sync_failed" = "सिंक नहीं हो पाया";
+"retry" = "दोबारा कोशिश करें";
+"something_went_wrong_please_retry" = "कुछ समस्या हुई है, कृपया दोबारा कोशिश करें.";
+"sync_successful" = "सिंक हो गया है";
+"your_data_secured" = "आपका डेटा अब भारत सरकार के सर्वर पर सुरक्षित है.";
+"rating_title" = "Rate us on the App Store to help make Aarogya Setu even better.";
+"not_now" = "Not Now";
+"rate_now" = "Rate Now";
+"scan_Qr_Code_To_Get_My_Health_Status" = "मेरी स्वास्थ्य स्थिति प्राप्त करने के लिए QR कोड स्कैन करें";
+"refresh_Qr_Code" = "QR कोड ताज़ा करने के लिए टैप करें";
+"qr_Code_Valid_For" = "QR कोड के लिए मान्य है";
+"to_Generate_Qr_Ble_And_Gps_Must_Be_ON"= "To generate QR code, Bluetooth & GPS must be in “ON” state";
+"turn_On_Ble_And_Gps"= "Turn on Bluetooth & GPS";
+"turn_On_Ble"= "Turn on Bluetooth";
+"turn_On_Gps"= "Turn on GPS";
+"qr_Code_Is_Expired"= "QR Code is Expired";
+"expired_qr_code"= "समय सीमा समाप्त क्यूआर कोड";
+"please_request_the_person_to_generate_new_code"= "कृपया नए कोड जनरेट करने के लिए व्यक्ति से अनुरोध करें";
+"low_risk_of_infection"= "%@ संक्रमण का कम जोखिम है";
+"moderate_risk_of_infection"= "%@ संक्रमण के मध्यम जोखिम में है";
+"high_risk_of_infection"= "%@ संक्रमण का उच्च जोखिम है";
+"tested_positive_for_covid19"= "%@ COVID-19 के लिए सकारात्मक परीक्षण किया है";
+"invalid_qr_code"= "अमान्य क्यूआर कोड";
+"not_generated_by_official_app"= "इसे आधिकारिक आरोग्य सेतु ऐप द्वारा जनरेट नहीं किया गया है।";
+"app_version"= "ऐप संस्करण";
+"share_data_gov"= "सरकार के साथ डेटा साझा करें।";
+"share_data_positive"= "केवल तभी साझा करें जब आपने COVID-19 के लिए सकारात्मक परीक्षण किया हो या वर्तमान में परीक्षण किया जा रहा हो";
+"call_helpline"= "कॉल हेल्पलाइन (1075)";
+"health_ministry_toll_free"= "COVID-19 से संबंधित प्रश्नों के लिए स्वास्थ्य मंत्रालय टोल-फ्री हेल्पलाइन";
+"qr_code"= "उत्पन्न / स्कैन क्यूआर कोड";
+"privacy_policy"= "गोपनीयता नीति";
+"terms_use"= "उपयोग की शर्तें";
+"tool_tip"= "A lot of new Features like Helpline, Privacy Policy, Terms of Use and more can be found here.";
+"scan_qr_code"= "दूसरे के QR कोड को स्कैन करें";
+"generate_my_qr_code"= "मेरा क्यूआर कोड जनरेट करें";
+"scan_qr_prompt"= "किसी और के स्वास्थ्य की स्थिति की जांच करने के लिए QR कोड स्कैन करें";
+
+"delete_account_title" = "मेरा एकाउंट हटा दो";
+
+"delete_account_summary" = "आप अपने खाते को स्थायी रूप से हटा सकते हैं और सभी डेटा मिटा सकते हैं। ";
+
+"delete_account_confirm" = "अपना खाता हटाने के लिए कृपया अपने मोबाइल नंबर की पुष्टि करें";
+
+"delete_account" = "खाता हटा दो";
+
+"approvals" = "स्वीकृति";
+
+"view_request" = "अनुरोध देखें";
+
+"approval_request_title" = "%@ ने अनुरोध किया है आपकी %@ स्थिति";
+
+"always_approved" = "हमेशा स्वीकृत";
+
+"approved" = "मंजूर की";
+
+"rejected" = "अस्वीकृत";
+
+"no_pending_approval_title" = "कोई लंबित अनुरोध नहीं";
+
+"no_pending_approval_detail" = "आपकी स्वीकृति के लिए \"आरोग्य सेतु स्थिति\" के कोई लंबित अनुरोध नहीं हैं";
+
+"few_seconds_ago" = "कुछ क्षण पहले";
+
+"minute_ago" = "1 मिनट पहले";
+
+"minutes_ago" = "%d मिनट पहले";
+
+"today_at" = "आज %@ पर";
+
+"why" = " क्यों  ";
+
+"approve" = "मंजूर";
+
+"always_approve" = "हमेशा मंजूर";
+
+"reject" = "अस्वीकार";
+
+"request_approved" = "अनुरोध स्वीकृत";
+
+"request_approved_detail" = "%@ को आपकी आरोग्य सेतु स्थिति तक एक बार पहुंच प्राप्त होगी";
+
+"request_rejected" = "निवेदन अस्वीकृत";
+
+"request_always_approved" = "अनुरोध स्वीकृत";
+
+"request_always_approved_detail" = "%@ भविष्य के अनुरोधों के लिए आपकी आरोग्य सेतु स्थिति तक पहुँचने में सक्षम होगा। आप इसे कभी भी सेटिंग्स से अक्षम कर सकते हैं";
+
+"request_rejected_detail" = "%@ आपके आरोग्य सेतु की स्थिति तक पहुँचने में सक्षम नहीं होगा";
+
+"approval_notification_title" = "आरोग्य सेतु स्थिति तक पहुँचने का अनुरोध";
+
+"approvals_preference_title" = "आरोग्य सेतु की स्थिति के लिए स्वीकृति";
+
+"approvals_no_preference_summary" = "वर्तमान में आपकी आरोग्य सेतु  स्थिति तक पहुंचने वाले कोई बाहरी ऐप नहीं हैं";
+
+"approvals_preference_summary" = "बाहरी ऐप जो केवल आपके आरोग्य सेतु की स्थिति तक पहुंच सकते हैं";
+
+"blocked" = "अवरोधित";
+
+"always_ask" = "अनुमोदन के लिए हर बार पूछें";
+
+"of_request" = "%@ का है %@ अनुरोध";
+
+"auto_rejected" = "Auto Rejected";
+
+"report_abuse" = "इस अनुरोध के साथ क्या गलत है?";
+
+"report_abuse_title" = "इस अनुरोध के साथ क्या गलत है?";
+
+"report_abuse_detail" = "इस मुद्दे को समझने में हमारी मदद करें";
+
+"didnt_initiate_request" = "मैंने यह अनुरोध शुरू नहीं किया है";
+
+"report" = "रिपोर्ट";
+
+"suspicious_spam" = "यह संदिग्ध या स्पैम है";
+
+"other" = "अन्य";
+
+"block" = "बाधा";
+
+"approval_request_time_interval" = "यह निवेदन है %@ to %@ ";
+
+"approvals_preference" = "अनुमोदन प्राथमिकताएँ";
+
+"error_select_option" = "कृपया एक विकल्प चुनें";
+
+"auto_approved" = "स्वत: स्वीकृत";
+
+"status_check" = "स्थिति की जाँच";
+
+"status_check_detail" = "एक जगह से अपने करीबी लोगों की आरोग्य सेतु स्थिति की जांच रखें।";
+
+"add" = "जोड़ें";
+
+"keep_a_check_on_app" = "आप एक जगह से अपने करीबी लोगों की आरोग्य सेतु स्थिति पर एक जांच रख सकते हैं";
+
+"add_account" = "खाता जोड़ो";
+
+"want_app_to_keep_check" = "चाहते हैं कि अन्य लोग आपकी आरोग्य सेतु स्थिति की जाँच करें?";
+
+"generate_and_share" = "अपना कोड बनाएं और साझा करें ";
+
+"remove" = "हटाना";
+
+"registered_mobile_detail" = "उस व्यक्ति का मोबाइल नंबर दर्ज करें, जिसके साथ आप अपनी आरोग्य सेतु स्थिति साझा करना चाहते हैं";
+
+"generate_code" = "कोड उत्पन्न करें";
+
+"enter_code" = "कोड दर्ज करें";
+
+"code" = "कोड";
+
+"get_code_detail" = "सत्यापित करने और जोड़ने के लिए खाता धारक से अद्वितीय कोड प्राप्त करें";
+
+"verify_and_add" = "सत्यापित करें और जोड़ें";
+
+"share_your_code" = "अपना कोड साझा करें";
+
+"share_code_to_enable" = "अपनी स्थिति पर नज़र रखने के लिए फ़ोन नंबर (%@) के साथ उपयोगकर्ता को सक्षम करने के लिए कोड साझा करें।";
+
+"please_enter_a_valid_code" = "कृपया एक मान्य कोड दर्ज करें।";
+
+"share" = "साझा करें";
+
+"copy" = "प्रतिलिपि";
+
+"code_valid_for" = "कोड 45 मिनट के लिए मान्य है";
+
+"forty_five_min" = "45 मिनट";
+
+"permission_access_preference_title" = "प्रवेश की स्थिति की अनुमति";
+
+"permission_access_preference_summary" = "बाहरी एप्लिकेशन या उपयोगकर्ता जो आपकी आरोग्य सेतु स्थिति तक पहुँच सकते हैं।";
+
+"apps" = "ऐप्स";
+
+"users" = "उपयोगकर्ताओं";
+
+"approvals_no_user_preference_summary" = "वर्तमान में आपके आरोग्य सेतु स्थिति तक पहुंचने वाले कोई बाहरी उपयोगकर्ता नहीं हैं।";
+
+"approval_request_with_reason_title" = "%@ ने आपके %@ स्थिति को %@ के लिए अनुरोध किया है";

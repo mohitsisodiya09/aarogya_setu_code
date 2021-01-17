@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DeleteAccountViewController" customModule="Aarogya_Setu" customModuleProvider="target">
+            <connections>
+                <outlet property="deleteAccountButton" destination="9K5-nD-a5n" id="2TX-Fa-FYb"/>
+                <outlet property="tableView" destination="HN2-z4-V8G" id="yPi-t4-UzU"/>
+                <outlet property="tableViewBottomConstraint" destination="rHR-Sy-kNg" id="jSM-x3-fjM"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="HN2-z4-V8G">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </tableView>
+                <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9K5-nD-a5n">
+                    <rect key="frame" x="16" y="670" width="382" height="50"/>
+                    <color key="backgroundColor" red="0.94117647058823528" green="0.38823529411764707" blue="0.44705882352941173" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="XeI-qu-tBJ"/>
+                    </constraints>
+                    <state key="normal" title="Delete Account" image="delete">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="25"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="deleteButtonAction:" destination="-1" eventType="touchUpInside" id="5NM-m0-9Dt"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="9K5-nD-a5n" firstAttribute="leading" secondItem="rCo-q5-g1O" secondAttribute="leading" constant="16" id="5gg-JE-UAk"/>
+                <constraint firstItem="rCo-q5-g1O" firstAttribute="trailing" secondItem="9K5-nD-a5n" secondAttribute="trailing" constant="16" id="Gvh-td-wy0"/>
+                <constraint firstItem="rCo-q5-g1O" firstAttribute="trailing" secondItem="HN2-z4-V8G" secondAttribute="trailing" id="SpW-Hk-dc9"/>
+                <constraint firstItem="HN2-z4-V8G" firstAttribute="top" secondItem="rCo-q5-g1O" secondAttribute="top" id="YOH-Mf-PbB"/>
+                <constraint firstItem="HN2-z4-V8G" firstAttribute="leading" secondItem="rCo-q5-g1O" secondAttribute="leading" id="ins-Fu-oFK"/>
+                <constraint firstItem="rCo-q5-g1O" firstAttribute="bottom" secondItem="9K5-nD-a5n" secondAttribute="bottom" constant="16" id="pCD-Qb-Qgy"/>
+                <constraint firstItem="rCo-q5-g1O" firstAttribute="bottom" secondItem="HN2-z4-V8G" secondAttribute="bottom" id="rHR-Sy-kNg"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="rCo-q5-g1O"/>
+            <point key="canvasLocation" x="137.68115942028987" y="152.44565217391306"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="delete" width="18" height="18"/>
+    </resources>
+</document>

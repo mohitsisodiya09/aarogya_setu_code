@@ -1,0 +1,269 @@
+/* 
+  Localized.strings
+  CoMap-19
+
+  
+*/
+
+
+"select_language" = "আপোনাৰ ভাষা নিৰ্বাচন কৰক";
+"app_permissions" = "App Permissions";
+"bluetooth" = "Bluetooth";
+"couldnot_recall" = "But I couldn’t recall everyone.";
+"country_code" = "+91";
+"cross_icon" = "X";
+"data_sharing_with_the_ministry" = "Data shared with the Government of India";
+"device_location" = "ডিভাইছ লোকেশ্বন";
+"english" = "English";
+"enter_mobile_number" = "মোবাইল নং দিয়ক";
+"enter_otp" = "OTP দিয়ক";
+"resend_otp" = "OTP resend কৰক";
+"first_fragment_label" = "First Fragment";
+"i_understand" = "বুজিলোঁ";
+"immediately_info" = "I immediately provided the government with names of places I visited and people I met in the past 14 days.";
+"mobile_number" = "মোবাইল নং";
+"next" = "পিছত";
+"otp" = "OTP";
+"permissions_detail" = "এই সময়ত এই বিষয়ৰ গুৰুত্ব আমি গভীৰভাৱে উপলব্ধি কৰিছোঁ। সেয়েহে আপোনালোকৰ তথ্য সুৰক্ষিত ৰখাৰ ক্ষেত্ৰত আমি শক্তিশালী ব্যৱস্থা হাতত লৈছোঁ।";
+"permissions_title" = "সেৱা আৰু গোপনীয়তাৰ নীতি-নিৰ্দেশনা";
+"please_select_a_language_en" = "Please select your language";
+"please_select_a_language_hi" = "Kripaya bhasha chunein";
+"please_select_a_language_to_proceed" = "Please select a language to proceed.";
+"previous" = "Previous";
+"register" = "Register";
+"second_fragment_label" = "Second Fragment";
+"submit" = "ছাবমিট";
+"swift_action" = "The government acted swiftly and quarantined these people and places, including my daughter’s school, and my friends and their families, too.";
+"thanks_map19" = "Thanks to MAP 19, I found out every place I visited and every person who was 5 ft away from me, in the past 14 days.";
+"title_activity_language_selection" = "LanguageSelectionActivity";
+"under_developement" = "Under Development";
+"we_have_sent_otp" = "আপোনাৰ মোবাইললৈ OTP পঠিওৱা হৈছে";
+"why_is_it_needed" = "কিয় প্ৰয়োজনীয় ?";
+"your_mobile_number_is_required_to_know_your_identity" = "Contact Tracingৰ বাবে আপোনাৰ মোবাইল নং প্ৰয়োজনীয়";
+"each_one_of_us" = "ভাৰতত ক'ৰোণা মহামাৰীৰ সংক্ৰমণ প্ৰতিৰোধৰ ক্ষেত্ৰত আমাৰ সামূহিক শক্তিয়ে সহায় কৰিব";
+"would_you_like" = "ক'ভিড-১৯ত আক্ৰান্তৰ সংস্পৰ্শত আহিছে যদি আপুনি এই তথ্য জানিব বিচাৰিবনে ?";
+"cowin20_tracks" = "Bluetooth আৰু Location Generated সামাজিক গ্ৰাফৰ জৰিয়তে আৰোগ্য সেতুৱে ক'ভিড-১৯ত আক্ৰান্ত কোনো লোকৰ সংস্পৰ্শত আহিছে যদি, সেই কথা ট্ৰেক কৰি জনাব পাৰে";
+"simply_install" = "সহজেই\n১) এপটো ইনষ্টল কৰক\n২) Bluetooth আৰু Location অন কৰক\n৩) Location 'Always'ৰ সৈতে সংযোগ কৰক\n\nআপোনাৰ পৰিয়ালৰ অন্য সদস্যৰ লগতে বন্ধু-বান্ধৱক এপটো ইনষ্টল কৰিবলৈ অনুৰোধ জনাওক";
+"you_will_be_alerted" = "ক'ভিড-১৯ত আক্ৰান্ত কোনো লোকৰ গভীৰ সংস্পৰ্শত (অজানিতে হওক) আহে যদি আপোনাক সজাগ কৰা হ'ব";
+"the_app_alerts" = "যদিহে আপোনাৰ কোনো লক্ষণ ধৰা পৰে, তেন্তে নিজকে কেনেকৈ আছুতীয়াকৈ ৰাখিব লাগে আৰু এনে সময়ত কি কৰিব লাগে, এপ্ এলাৰ্টে এই সম্পৰ্কীয় আপোনাক পৰামৰ্শ দিব";
+"with_cowin20" = "আৰোগ্য সেতুৰদ্বাৰা আপুনি নিজৰ লগতে পৰিয়াল আৰু বন্ধুবৰ্গক সুৰক্ষিত কৰিব পাৰিব আৰু ক'ভিড-১৯ৰ বিৰুদ্ধে যুঁজত দেশবাসীক সহায় কৰিব পাৰিব।";
+"please_upgrade" = "Please Upgrade";
+"upgrade" = "Upgrade";
+"please_download_latest_version" = "Please download latest version of %@ to continue using its safety services.";
+"data_sharing_with_moh" = "তথ্যৰ আদান-প্ৰদান";
+"sets_your_location" = "আপোনাৰ Location Sharing 'Always'ত ৰাখিব। যিকোনো সময়তে আপুনি ইয়াক সলনি কৰিব পাৰে।";
+"monitors_your_device" = "আপোনাৰ ডিভাইছৰ proximity অন্য মোবাইলৰ সৈতে নিৰীক্ষণ কৰক। আপুনি সদায় ইয়াক অন কৰি ৰাখিব।";
+"data_will_be_sent_only_to_moi" = "আপোনাৰ তথ্য কেৱল ভাৰত চৰকাৰৰ সৈতেহে আদান-প্ৰদান হ'ব। কোনো কাৰণতে আপোনাৰ নাম আৰু ফোন নং কাৰো লগত শ্বেয়াৰ কৰা নহ'ব।";
+"contribute_to_a_safer_india" = "সহমত";
+"register_now" = "পঞ্জীয়ন কৰক";
+"why_is_it_needed_sub_title" = "ধৰা হল, আপুনি ৰাজহুৱা স্থানত কাৰোবাক লগ পাইছিল বা সংস্পৰ্শত আহিছিল আৰু কিছুদিনৰ পিছত গম পালে যে- সেই ব্যক্তিগৰাকী ক'ভিড-১৯ত আক্ৰান্ত হৈছে।\n\nভাৰত চৰকাৰে এনে ব্যক্তিৰ সৈতে যিসকল সংস্পৰ্শত আহিছিল, তেওঁলোকক এপ্ সংযুক্ত হৈ থকা সক্ৰিয় ডিভাইছৰ জৰিয়তে চিনাক্ত কৰিব পাৰিব।\n\nএনে সংস্পৰ্শত থকা ব্যক্তিসকলৰ মোবাইললৈ চৰকাৰে পৰামৰ্শ প্ৰেৰণ কৰিব, যাতে ব্যক্তিসকলে কোৱাৰেণ্টাইন, আছুতীয়াকৈ থকাৰ ক্ষেত্ৰত বা ওচৰৰ পৰীক্ষণ কেন্দ্ৰত পৰীক্ষা কৰাব পাৰে।\n\nসক্ৰিয় Contact Tracingত অংশগ্ৰহণ কৰি আপুনি ক'ভিড-১৯ৰ সংক্ৰমণ হ্ৰাস কৰাত সহায় কৰিব পাৰিব। আপোনালোকৰ সুস্বাস্থ্যৰ বাবে প্ৰয়োজনীয় পদক্ষেপ গ্ৰহণ কৰাত ই ভাৰত চৰকাৰক সহায় কৰিব।";
+"ok" = "ঠিক আছে";
+"close" = "বন্ধ কৰক / বন্ধ";
+"terms_n_conditions" = "Terms & Conditions";
+"try_again" = "Try Again";
+"settings" = "Settings";
+"internet_connection_lost" = "Internet Connection Lost";
+"make_sure_your_phone_is_connected_to_wifi" = "Make sure your phone is connected to the WiFi or switch to mobile data.";
+"permission_screen_tnc" = "এখন সুৰক্ষিত ভাৰতবৰ্ষৰ বাবে যদি আপুনি সহযোগিতা আগবঢ়াব বিচাৰে, তেন্তে তলত ক্লিক্ কৰি Terms of Service আৰু Privacy Policy মানি ল'ব";
+"share_app_message" = "ক'ভিড-১৯ৰ বিৰুদ্ধে যুঁজত আৰোগ্য এপ্ ব্যৱহাৰ কৰক। ডাউনলোড কৰক আৰু ইয়াৰ লিংক শ্বেয়াৰ কৰক";
+"turn_on" = "Turn On";
+"later" = "Later";
+"location_alert_title" = "Turn on Location";
+"location_alert_subtitle" = "Location must be set to Always, to track your history and give you accurate safety updates.";
+"bluetooth_alert_title" = "Turn on Bluetooth";
+"bluetooth_alert_subtitle" = "Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.";
+"upload_consent_title"= "আপোনাৰ ডাটা সদায় আপোনাৰ ফোনত চেভ কৰা হয়. যদি আপুনি COVID-19ৰ পৰীক্ষাত পজিটিভ আহিছে কৰিছে বা বৰ্তমান COVID-19ৰ বাবে পৰীক্ষা কৰি আছে তেন্তে আপুনি এইটো চৰকাৰক জনাব পাৰে. আপুনি এনেকুৱা কৰিলে আপুনি আপোনাৰ ডাটা চৰকাৰক আপল'ড কৰিব.";
+"upload_consent_subtitle" = "মই নিশ্চয়তা প্ৰদান কৰিছোঁ";
+"being_tested" = "মোৰ বৰ্তমান COVID-19ৰ বাবে পৰীক্ষা কৰা হৈ আছে";
+"tested_positive" = "মোৰ COVID-19ৰ পৰীক্ষাত প'জিটিভ আহিছে";
+"none_of_above" = "ইয়াৰে এটাও মোৰ ওপৰত প্ৰযোজ্য নহয়";
+"to_help_contact_tracing"= "সম্পৰ্কলৈ অহা লোকসকলক ট্ৰেচ কৰিবৰ বাবে, আপোনাৰ ব্লূটুথ আৰু GPS সেৱাৰে লোৱা সহভাগিতাৰ ডাটা ভাৰত চৰকাৰৰ লগত শ্বেয়াৰ কৰা হ'ব";
+"confirm_proceed" = "নিশ্চিত কৰক আৰু আগবাঢ়ক";
+"syncingData" = "ডাটা চিংক কৰা হৈ আছে";
+"sending_interaction_data" = "ব্লূটুথ আৰু GPS সেৱাৰে লোৱা সহভাগিতাৰ ডাটা ভাৰত চৰকাৰক পঠোৱা হৈ আছে";
+"cancel" = "বাতিল কৰক";
+"sync_failed" = "চিংক কৰাত ব্যৰ্থ হ'ল";
+"retry" = "পুনৰ চেষ্টা কৰক";
+"something_went_wrong_please_retry"= "কিবা আঁসোৱাহ সংঘটিত হ'ল। পুনৰ চেষ্টা কৰক";
+"sync_successful" = "চিংক কৰাত সফল";
+"your_data_secured" = "আপোনাৰ ডাটা এতিয়া ভাৰত চৰকাৰৰ চাৰ্ভাৰত লোৱা হৈছে।";
+"rating_title" = "Rate us on the App Store to help make Aarogya Setu even better.";
+"not_now" = "Not Now";
+"rate_now" = "Rate Now";
+"scan_Qr_Code_To_Get_My_Health_Status"= "মোৰ স্বাস্থ্যৰ স্থিতি জানিবৰ বাবে QR কোড স্কেন কৰক";
+"refresh_Qr_Code"= "QR কোড ৰিফ্ৰেছ কৰিবৰ বাবে টেপ কৰক";
+"qr_Code_Valid_For"= "QR কোড এই কামৰ বাবে বৈধ";
+"to_Generate_Qr_Ble_And_Gps_Must_Be_ON"= "To generate QR code, Bluetooth & GPS must be in “ON” state";
+"turn_On_Ble_And_Gps"= "Turn on Bluetooth & GPS";
+"turn_On_Ble"= "Turn on Bluetooth";
+"turn_On_Gps"= "Turn on GPS";
+"qr_Code_Is_Expired"= "QR Code is Expired";
+"expired_qr_code"= "QR কোডৰ ম্যাদ উকলিল";
+"please_request_the_person_to_generate_new_code"= "অনুগ্ৰহ কৰি নতুন কোড সৃষ্টি কৰিবলৈ ব্যক্তিজনক অনুৰোধ কৰক";
+"low_risk_of_infection"= "%@ ৰ সংক্ৰমণৰ আশংকা কম";
+"moderate_risk_of_infection"= "%@ ৰ সংক্ৰমণৰ আশংকা মজলীয়া";
+"high_risk_of_infection"= "%@ ৰ সংক্ৰমণৰ আশংকা অতি বেছি";
+"tested_positive_for_covid19"= "%@ ৰ COVID-19 পৰীক্ষাৰ ফলাফল পজিটিভ আহিছে";
+"invalid_qr_code"= "QR কোড অবৈধ";
+"not_generated_by_official_app"= "ইয়াক অফিছিয়েল আৰোগ্য হেতু এপ্পৰ দ্বাৰা সৃষ্টি কৰা হোৱা নাই";
+"app_version"= "এপ্পৰ সংস্কৰণ";
+"share_data_gov"= "চৰকাৰৰ সৈতে তথ্য শ্বেয়াৰ কৰক";
+"share_data_positive"= "আপোনাৰ COVID-19 পৰীক্ষাৰ ফলাফল যদি পজিটিভ আহিছে বা আপোনাৰ যদি বৰ্তমান পৰীক্ষা  কৰি থকা হৈছে, তেতিয়াহে শ্বেয়াৰ কৰক";
+"call_helpline"= "হেল্পলাইন নম্বৰ (1075)লৈ ফোন কৰক";
+"health_ministry_toll_free"= "COVID-19 ৰ লগত জড়িত প্ৰশ্ন সুধিবৰ বাবে স্বাস্থ্য মন্ত্ৰালয়ৰ নিঃশুল্ক নম্বৰ";
+"qr_code"= "QR কোড সৃষ্টি/স্কেন কৰক";
+"privacy_policy"= "গোপনীয়তা নীতি";
+"terms_use"= "ব্যৱহাৰৰ চ";
+"tool_tip"= "A lot of new Features like Helpline, Privacy Policy, Terms of Use and more can be found here.";
+"scan_qr_code"= "আনৰ QR কোড স্কেন কৰক";
+"generate_my_qr_code"= "মোৰ QR কোড সৃষ্টি কৰক";
+"scan_qr_prompt"= "আন কাৰোবাৰ স্বাস্থ্যৰ স্থিতি চাবৰ বাবে QR কোড স্কেন কৰক";
+
+"delete_account_title" = "মোৰ একাউন্ট বিলুপ কৰক";
+
+"delete_account_summary" = "আপুনি আপোনাৰ একাউন্ট স্থায়ীভাৱে বিলুপ কৰিব পাৰে আৰু সকলো ডাটা মছি পেলাব পাৰে। ";
+
+"delete_account_confirm" = "আপোনাৰ একাউন্ট বিলুপ কৰাটো অব্যাহত ৰাখিবলৈ, অনুগ্ৰহ কৰি আপোনাৰ মোবাইল নম্বৰ নিশ্চিত কৰক";
+
+"delete_account" = "একাউন্ট বিলুপ কৰক";
+
+"approvals" = "অনুমোদন";
+
+"view_request" = "অনুৰোধ চাওক";
+
+"approval_request_title" = "%@ য়ে আপোনাৰ %@ স্থিতিৰ বাবে অনুৰোধ জনাইছে";
+
+"always_approved" = "সদায়ে অনুমোদিত";
+
+"approved" = "অনুমোদিত";
+
+"rejected" = "প্ৰত্যাখ্যান";
+
+"no_pending_approval_title" = "কোনো অপূৰ্ণ অনুৰোধ নাই";
+
+"no_pending_approval_detail" = "আপোনাৰ অনুমোদনৰ বাবে ''আৰোগ্য সেতু ষ্টেটাছ''ৰ কোনো অপূৰ্ণ অনুৰোধ নাই";
+
+"few_seconds_ago" = "কেইচেকেণ্ডমানৰ পূৰ্বে";
+
+"minute_ago" = "1 মিনিটৰ পূৰ্বে";
+
+"minutes_ago" = "%d মিনিটৰ পূৰ্বে";
+
+"today_at" = "আজি %@ ত";
+
+"why" = " কিয় ";
+
+"approve" = "অনুমোদন";
+
+"always_approve" = "সদায়ে অনুমোদন";
+
+"reject" = "প্ৰত্যাখ্যান";
+
+"request_approved" = "অনুৰোধ অনুমোদিত";
+
+"request_approved_detail" = "%@ য়ে আপোনাৰ আৰোগ্য সেতু এপ্পৰ ষ্টেটাছ এবাৰৰ বাবে প্ৰাপ্ত কৰিব";
+
+"request_rejected" = "অনুৰোধ প্ৰত্যাখ্যান";
+
+"request_always_approved" = "অনুৰোধ অনুমোদিত";
+
+"request_always_approved_detail" = "%@ য়ে এনেদৰে ভৱিষ্যতৰ অনুৰোধৰ বোৰৰ বাবে আপোনাৰ আৰোগ্য সেতু এপ্পৰ ষ্টেটাছ প্ৰাপ্ত কৰিবলৈ সক্ষম হ'ব। আপুনি ইয়াক ছেটিঙছৰ পৰা যিকোনো সময়ত অক্ষম কৰিব পাৰে";
+
+"request_rejected_detail" = "%@ য়ে আপোনাৰ আৰোগ্য সেতু এপ্পৰ ষ্টেটাছ প্ৰাপ্ত কৰিবলৈ সক্ষম নহ'ব";
+
+"approval_notification_title" = "আৰোগ্য সেতু এপ্পত প্ৰৱেশৰ অনুৰোধ";
+
+"approvals_preference_title" = "আৰোগ্য সেতু ষ্টেটাছৰ বাবে অনুমোদন";
+
+"approvals_no_preference_summary" = "বৰ্তমান সময়ত কোনো বাহ্যিক এপ্পে আপোনাৰ আৰোগ্য সেতু ষ্টেটাছ প্ৰাপ্ত কৰি থকা নাই।";
+
+"approvals_preference_summary" = "কেৱল আপোনাৰ আৰোগ্য সেতু ষ্টেটাছ প্ৰাপ্ত কৰিব পৰা বাহ্যিক এপ্পবোৰ";
+
+"blocked" = "অৱৰোধিত";
+
+"always_ask" = "অনুমোদনৰ বাবে প্ৰতিবাৰেই সোধক";
+
+"of_request" = "%@ ৰ %@ অনুৰোধ";
+
+"auto_rejected" = "Auto Rejected";
+
+"report_abuse" = "অপপ্ৰয়োগৰ ৰিপোৰ্ট";
+
+"report_abuse_title" = "এই অনুৰোধটোত কি ভুল হৈছে?";
+
+"report_abuse_detail" = "সমস্যাটো বুজি পোৱাত আমাক সহায় কৰক";
+
+"didnt_initiate_request" = "মই এই অনুৰোধটো কৰা নাছিলো";
+
+"report" = "ৰিপোৰ্ট";
+
+"suspicious_spam" = "ই সন্দেহজনক বা স্পেম";
+
+"other" = "অন্য";
+
+"block" = "অৱৰোধ";
+
+"approval_request_time_interval" = "This request is from %@ to %@ ";
+
+"approvals_preference" = "Approval Preferences";
+
+"error_select_option" = "Please select an option";
+
+"auto_approved" = "Auto Approved";
+
+"status_check" = "Status Check";
+
+"status_check_detail" = "Keep a check on Aarogya Setu status of your close ones from one place.";
+
+"add" = "ADD";
+
+"keep_a_check_on_app" = "You can keep a check on Aarogya Setu status of your close ones from one place.";
+
+"add_account" = "Add Account";
+
+"want_app_to_keep_check" = "Want others to keep a check on your Aarogya Setu status?";
+
+"generate_and_share" = "Generate and Share your code ";
+
+"remove" = "Remove";
+
+"registered_mobile_detail" = "Enter mobile number of person, with whom you want to share your Aarogya Setu status";
+
+"generate_code" = "Generate Code";
+
+"enter_code" = "Enter code";
+
+"code" = "Code";
+
+"get_code_detail" = "Get the unique code from account holder in order to verify and add";
+
+"verify_and_add" = "Verify and Add";
+
+"share_your_code" = "Share Your Code";
+
+"share_code_to_enable" = "Share code to enable user with phone number(%@) to keep a check on your status.";
+
+"please_enter_a_valid_code" = "Please enter a valid code.";
+
+"share" = "Share";
+
+"copy" = "Copy";
+
+"code_valid_for" = "Code valid for 45 min";
+
+"forty_five_min" = "45 min";
+
+"permission_access_preference_title" = "Permission to Access Status";
+
+"permission_access_preference_summary" = "External apps or users that can access your Aarogya Setu status.";
+
+"apps" = "APPS";
+
+"users" = "USERS";
+
+"approvals_no_user_preference_summary" = "Currently there are no external users accessing your Aarogya Setu status.";
+
+"approval_request_with_reason_title" = "%@ has requested for your %@ status for %@";
+
+"approval_request_with_reason_and_time_title" = "%@ has requested for your %@ status from %@ to %@ for %@";
+

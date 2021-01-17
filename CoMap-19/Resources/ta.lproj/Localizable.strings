@@ -1,0 +1,268 @@
+/* 
+  Localized.strings
+  CoMap-19
+
+ 
+*/
+
+
+"select_language" = "உங்கள் மொழியைத் தேர்வுசெய்க";
+"app_permissions" = "App Permissions";
+"bluetooth" = "புளூடூத்";
+"couldnot_recall" = "But I couldn’t recall everyone.";
+"country_code" = "+91";
+"cross_icon" = "X";
+"data_sharing_with_the_ministry" = "Data shared with the Government of India";
+"device_location" = "சாதன இருப்பிடம்";
+"english" = "English";
+"enter_mobile_number" = "மொபைல் எண்ணை உள்ளிடவும்";
+"enter_otp" = "OTP ஐ உள்ளிடவும்";
+"resend_otp" = "OTP ஐ மீண்டும் அனுப்பு";
+"first_fragment_label" = "First Fragment";
+"i_understand" = "எனக்கு புரிகிறது.";
+"immediately_info" = "I immediately provided the government with names of places I visited and people I met in the past 14 days.";
+"mobile_number" = "கைபேசி எண்";
+"next" = "அடுத்தது";
+"otp" = "OTP";
+"permissions_detail" = "இந்த தலைப்பின் தன்மை மற்றும் உணர்திறன் ஆகியவற்றை நாங்கள் புரிந்துகொள்கிறோம், மேலும் உங்கள் தரவு சமரசம் செய்யப்படாமல் இருக்க வலுவான நடவடிக்கைகளை எடுத்துள்ளோம்.";
+"permissions_title" = "சேவை விதிமுறைகள் மற்றும் தனியுரிமை";
+"please_select_a_language_en" = "Please select your language";
+"please_select_a_language_hi" = "Kripaya bhasha chunein";
+"please_select_a_language_to_proceed" = "Please select a language to proceed.";
+"previous" = "Previous";
+"register" = "Register";
+"second_fragment_label" = "Second Fragment";
+"submit" = "சமர்ப்பிக்கவும்";
+"swift_action" = "The government acted swiftly and quarantined these people and places, including my daughter’s school, and my friends and their families, too.";
+"thanks_map19" = "Thanks to MAP 19, I found out every place I visited and every person who was 5 ft away from me, in the past 14 days.";
+"title_activity_language_selection" = "LanguageSelectionActivity";
+"under_developement" = "Under Development";
+"we_have_sent_otp" = "உங்கள் மொபைல் எண்ணுக்கு OTP ஐ அனுப்பியுள்ளோம்";
+"why_is_it_needed" = "அது ஏன் தேவை?";
+"your_mobile_number_is_required_to_know_your_identity" = "தொடர்பு கண்காணிப்புக்கு உங்கள் மொபைல் எண் தேவை.";
+"each_one_of_us" = "கரோனா வைரஸ் கிருமியைப் பரவாமல் தடுப்பதற்கு வேண்டிய சக்தியும், பொறுப்பும் நம் ஒவ்வொருவரிடம் உள்ளது.";
+"would_you_like" = "கோவிட்-19  உறுதி செய்யப்பட்டவர் எவரேனும் உங்களுடன் தொடர்பு கொண்டிருந்தால், உங்களுக்கு நாங்கள் அதைத் தெரிவிக்கலாமா?";
+"cowin20_tracks" = "இந்த ஆரோக்கிய சேது செயலி (app), ப்ளூ டூத், ஜீபீஎஸ் (Bluetooth, GPS) மூலமாக கோவிட்-19  ஆல் பாதிக்கப்பட்டவர்களோடு உங்கள் தொடர்பை கண்காணிக்கிறது.";
+"simply_install" = "நீங்கள் செய்ய வேண்டியது. \n\n 1. இந்த செயலியை (app) ஐ உங்கள் மொபைலில் டௌன்லோட் செய்துகொள்ளுங்கள்.\n2. ப்ளூடூத், ஜீபீஎஸ்ஸை (Bluetooth, GPS) ஆன் செய்யுங்கள்.\n3.  லொகேஷன் (Location)என்ற இடத்தில் ஆல்வேஸ்(Always) என்பதைத் தேர்வு செய்யுங்கள். \n\n உங்கள் குடும்பத்தினருக்கும், நண்பர்களுக்கும், இந்த செயலி அழைப்பை அனுப்புங்கள்.";
+"you_will_be_alerted" = "நீங்கள் எதிர்பாராமல் சமீபத்தில் தொடர்பு கொண்ட யாருக்கேனும் கோவிட்-19  பாதிப்பு நிச்சயமானது பற்றித் தெரியவந்தால்,  உங்களுக்கு (alert) அலர்ட் அனுப்பபடும்";
+"the_app_alerts" = "ஒரு வேளை உங்களுக்கு நோயின் அறிகுறிகள் இருந்தால், நீங்கள் எடுத்துக் கொள்ள வேண்டிய முன்னெச்சரிக்கை நடவடிக்கைகளையும், சரியான தனிமைப்படுத்தும் வழிகளையும், விளக்கங்களையும் உங்களுக்கு அலெர்ட்டுடன் தெரிவிக்கப்படும்";
+"with_cowin20" = "ஆரோக்கிய சேது செயலி மூலம், நீங்கள் உங்களையும், உங்கள் குடும்பத்தினரையும், நண்பர்களையும் , நமது நாட்டை யும் கோவிட்-19 ஐ எதிர்க்க உதவலாம்";
+"please_upgrade" = "Please Upgrade";
+"upgrade" = "Upgrade";
+"please_download_latest_version" = "Please download latest version of %@ to continue using its safety services.";
+"data_sharing_with_moh" = "தரவு பகிர்வு";
+"sets_your_location" = "உங்கள் இருப்பிட பகிர்வை ‘எப்போதும்’ என அமைக்க பரிந்துரைக்கப்படுகிறது. இதை எப்போது வேண்டுமானாலும் மாற்றலாம்.";
+"monitors_your_device" = "புளூடூத் உங்கள் சாதனத்தின் மற்றொரு மொபைல் சாதனத்தின் அருகாமையைக் கண்காணிக்கிறது. எல்லா நேரங்களிலும் இதை வைத்திருக்க பரிந்துரைக்கப்படுகிறது.";
+"data_will_be_sent_only_to_moi" = "உங்கள் தரவு இந்திய அரசுடன் மட்டுமே பகிரப்படும். எந்த நேரத்திலும் உங்கள் பெயரையும் எண்ணையும் பொதுமக்களுக்கு வெளிப்படுத்த பயன்பாடு அனுமதிக்காது.";
+"contribute_to_a_safer_india" = "நான் ஒப்புக்கொள்கிறேன்";
+"register_now" = "பதிவு செய்யவும்";
+"why_is_it_needed_sub_title" = "ஒரு வாரத்திற்கு முன்பு ஒரு கூட்டத்தில் நீங்கள் ஒருவரைச் சந்தித்தீர்கள் அல்லது ஒரு பொது இடத்தில் தெரியாத ஒருவருடன் நெருக்கமாக இருந்தீர்கள் என்று சொல்லுங்கள், சில நாட்களில், அவர்கள் COVID-19 க்கு நேர்மறையானதை சோதிக்கிறார்கள்.\n\nகடந்த 14 நாட்களில், அந்த நபரின் நெருங்கிய சுற்றளவில் நிறுவப்பட்ட பயன்பாட்டைக் கொண்ட செயலில் உள்ள சாதனங்கள் மூலம், அந்த நபரின் அனைத்து தொடு புள்ளிகளையும் இந்திய அரசு கண்டுபிடிக்கும்.\n\nஇதுபோன்ற அனைத்து தொடர்புகளுக்கும் மேலதிக நடவடிக்கை குறித்த ஆலோசனையுடன், சுய-தனிமைப்படுத்த அல்லது தேவைக்கேற்ப அருகிலுள்ள சோதனை மையத்தில் சோதனை செய்ய ஒரு அறிவிப்பு அனுப்பப்படும்.\n\nசெயலில் தொடர்பு கண்டுபிடிப்பதில் பங்கேற்பதன் மூலம், நீங்கள் COVID-19 இன் பரவலைக் குறைக்க எங்களுக்கு உதவுவீர்கள், மேலும் உங்கள் உடல்நலம் மற்றும் நல்வாழ்வுக்கான செயலூக்கமான நடவடிக்கைகளைச் செயல்படுத்த இந்திய அரசுக்கு உதவுவீர்கள்.";
+"ok" = "சரி";
+"close" = "மூடவும்";
+"terms_n_conditions" = "Terms & Conditions";
+"try_again" = "Try Again";
+"settings" = "Settings";
+"internet_connection_lost" = "Internet Connection Lost";
+"make_sure_your_phone_is_connected_to_wifi" = "Make sure your phone is connected to the WiFi or switch to mobile data.";
+"permission_screen_tnc" = "நீங்கள் ஒரு பாதுகாப்பான இந்தியாவுக்கு பங்களிக்க விரும்பினால், கீழேயுள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் சேவை விதிமுறைகள் மற்றும் தனியுரிமைக் கொள்கையை நீங்கள் ஏற்றுக்கொள்வதைக் குறிக்கவும்:";
+"share_app_message" = "COVID19 க்கு எதிராக போராட இந்த பயன்பாட்டை பரிந்துரைக்கிறேன். இந்த இணைப்பைப் பயன்படுத்தி பதிவிறக்கம் செய்து பகிரவும்";
+"turn_on" = "Turn On";
+"later" = "Later";
+"location_alert_title" = "Turn on Location";
+"location_alert_subtitle" = "Location must be set to Always, to track your history and give you accurate safety updates.";
+"bluetooth_alert_title" = "Turn on Bluetooth";
+"bluetooth_alert_subtitle" = "Bluetooth must be on at all times to track your proximity to other devices and give you accurate safety updates.";
+"upload_consent_title"= "உங்கள் தரவு எப்போதும் உங்கள் போனில் சேமிக்கப்படுகிறது. உங்களுக்கு Covid-19 டெஸ்ட் பாசிட்டிவ் ஆக இருந்தால் அல்லது Covid-19-க்காக தற்போது நீங்கள் டெஸ்ட் செய்யப்பட்டிருந்தால், நீங்கள் இதை அரசாங்கத்திடம் தெரிவிக்கலாம். நீங்கள் இவ்வாறு செய்யும்போது உங்கள் தரவை அரசாங்கத்திற்குப் பதிவேற்றுவீர்கள்.";
+"upload_consent_subtitle" = "நான் உறுதிசெய்கிறேன்";
+"being_tested" = "COVID-19-க்கான டெஸ்ட் தற்போது எனக்கு செய்யப்பட்டிருக்கிறது";
+"tested_positive" = "எனக்கு COVID-19-க்கான டெஸ்ட் பாசிடிவ் ஆக உள்ளது";
+"none_of_above" = "இவற்றில் எதுவும் எனக்கு பொருந்தாது";
+"to_help_contact_tracing"= "தொடர்பு கொள்ள உதவுவதற்கு, ப்ளூடூத் மற்றும் GPS சேவைகள் மூலம் கைப்பற்றப்பட்ட உங்கள் தொடர்பு தரவு இந்திய அரசாங்கத்துடன் பகிரப்படும்.";
+"confirm_proceed" = "உறுதிசெய்யவும் மற்றும் தொடரவும்";
+"syncingData" = "தரவை ஒத்திசைக்கிறது";
+"sending_interaction_data" = "ப்ளூடூத் மற்றும் GPS சேவைகள் மூலம் சேகரித்த தொடர்பு தகவல்களை இந்திய அரசாங்கத்திற்கு அனுப்புகிறது.";
+"cancel" = "இரத்துசெய்க";
+"sync_failed" = "ஒத்திசைவு தோல்வியடைந்தது";
+"retry" = "மீண்டும் முயற்சிக்கவும்";
+"something_went_wrong_please_retry"= "சில தொழில்நுட்ப கோளாறு ஏற்பட்டுள்ளது, தயவுசெய்து மீண்டும் முயற்சிக்கவும்.";
+"sync_successful" = "ஒத்திசைவு வெற்றிகரமானது";
+"your_data_secured" = "உங்கள் தரவு இப்போது இந்திய அரசாங்க சர்வர்களில் பாதுகாக்கப்பட்டுள்ளது.";
+"rating_title" = "Rate us on the App Store to help make Aarogya Setu even better.";
+"not_now" = "Not Now";
+"rate_now" = "Rate Now";
+"scan_Qr_Code_To_Get_My_Health_Status"= "எனது உடல்நிலையைப் பெற QR குறியீட்டை ஸ்கேன் செய்யவும்";
+"refresh_Qr_Code"= "QR குறியீட்டைப் புதுப்பிக்க டேப் செய்யவும்";
+"qr_Code_Valid_For"= "QR குறியீடு செல்லுபடியாகும் காலம்";
+"to_Generate_Qr_Ble_And_Gps_Must_Be_ON"= "To generate QR code, Bluetooth & GPS must be in “ON” state";
+"turn_On_Ble_And_Gps"= "Turn on Bluetooth & GPS";
+"turn_On_Ble"= "Turn on Bluetooth";
+"turn_On_Gps"= "Turn on GPS";
+"qr_Code_Is_Expired"= "QR Code is Expired";
+"expired_qr_code"= "காலாவதியான QR குறியீடு";
+"please_request_the_person_to_generate_new_code"= "புதிய குறியீட்டை உருவாக்க சம்பந்தப்பட்ட நபரிடம் கோரவும்";
+"low_risk_of_infection"= "%@ நோய்த்தொற்றின் குறைந்த ஆபத்தில் உள்ளது";
+"moderate_risk_of_infection"= "%@ நோய்த்தொற்றின் மிதமான ஆபத்தில் உள்ளது";
+"high_risk_of_infection"= "%@ நோய்த்தொற்றின் அதிக ஆபத்தில் உள்ளது";
+"tested_positive_for_covid19"= "%@ COVID-19 தொற்று உறுதி செய்யப்பட்டுள்ளது";
+"invalid_qr_code"= "தவறான QR குறியீடு";
+"not_generated_by_official_app"= "அதிகாரப்பூர்வ ஆரோக்ய சேது செயலியின் மூலம் இது உருவாக்கப்படவில்லை";
+"app_version"= "செயலியின் பதிப்பு";
+"share_data_gov"= "தரவை அரசாங்கத்துடன் பகிர்ந்து கொள்ளுங்கள்.";
+"share_data_positive"= "உங்களுக்கு COVID-19 தொற்று உறுதி செய்ய பட்டிருந்தால் அல்லது தற்போது சோதிக்க பட்டிருந்தால் மட்டுமே பகிரவும்";
+"call_helpline"= "ஹெல்ப்லைனை அழைக்கவும் (1075)";
+"health_ministry_toll_free"= "COVID-19 தொடர்பான கேள்விகளுக்கு சுகாதார அமைச்சரவையின் கட்டணமில்லா ஹெல்ப்லைன்";
+"qr_code"= "QR குறியீட்டை உருவாக்கவும் / ஸ்கேன் செய்யவும்";
+"privacy_policy"= "தனியுரிமைக் கொள்கை";
+"terms_use"= "பயன்படுத்தும் விதிமுறைகள்";
+"tool_tip"= "A lot of new Features like Helpline, Privacy Policy, Terms of Use and more can be found here.";
+"scan_qr_code"= "மற்றவர்களின் QR குறியீட்டை ஸ்கேன் செய்யவும்";
+"generate_my_qr_code"= "எனது QR குறியீட்டை உருவாக்கவும்";
+"scan_qr_prompt"= "வேறொருவரின் சுகாதார நிலையை அறிய QR குறியீட்டை ஸ்கேன் செய்யுங்கள்";
+
+"delete_account_title" = "எனது கணக்கை நீக்கவும்";
+
+"delete_account_summary" = "உங்கள் கணக்கை நிரந்தரமாக நீக்கி எல்லா தரவையும் துடைக்கலாம். ";
+
+"delete_account_confirm" = "உங்கள் கணக்கை நீக்குவதைத் தொடர, உங்கள் மொபைல் எண்ணை உறுதிப்படுத்தவும்";
+
+"delete_account" = "கணக்கை நீக்குக";
+
+"approvals" = "ஒப்புதல்கள்";
+
+"view_request" = "கோரிக்கை காண்க";
+
+"approval_request_title" = "%@ உங்களுக்காக கோரியுள்ளது %@ நிலை";
+
+"always_approved" = "எப்போதும் அங்கீகரிக்கப்பட்டது";
+
+"approved" = "அங்கீகரிக்கப்பட்டது";
+
+"rejected" = "நிராகரிக்கப்பட்டது";
+
+"no_pending_approval_title" = "நிலுவையில் உள்ள கோரிக்கைகள் இல்லை";
+
+"no_pending_approval_detail" = "உங்கள் ஒப்புதலுக்காக “ஆரோக்ய சேது நிலை” கோரிக்கைகள் எதுவும் நிலுவையில் இல்லை";
+
+"few_seconds_ago" = "சில விநாடிகளுக்கு முன்பு";
+
+"minute_ago" = "1 நிமிடம் முன்பு";
+
+"minutes_ago" = "%d நிமிடங்களுக்கு முன்பு";
+
+"today_at" = "இன்று %@";
+
+"why" = " ஏன் ";
+
+"approve" = "ஒப்புதல்";
+
+"always_approve" = "எப்போதும் ஒப்புதல்";
+
+"reject" = "நிராகரி";
+
+"request_approved" = "கோரிக்கை அங்கீகரிக்கப்பட்டது";
+
+"request_approved_detail" = "%@ உங்கள் ஆரோக்ய சேது நிலைக்கு ஒரு முறை அணுகலைப் பெறும்";
+
+"request_rejected" = "கோரிக்கை நிராகரிக்கப்பட்டது";
+
+"request_always_approved" = "கோரிக்கை அங்கீகரிக்கப்பட்டது";
+
+"request_always_approved_detail" = "%@ உங்கள் ஆரோக்ய சேது நிலையை எதிர்கால கோரிக்கைகளுக்காக அணுக முடியும். அமைப்புகளிலிருந்து எப்போது வேண்டுமானாலும் முடக்கலாம்";
+
+"request_rejected_detail" = "%@ உங்கள் ஆரோக்ய சேது நிலையை அணுக முடியாது";
+
+"approval_notification_title" = "ஆரோக்ய சேது நிலையை அணுக கோரிக்கை";
+
+"approvals_preference_title" = "ஆரோக்ய சேது நிலைக்கு ஒப்புதல்";
+
+"approvals_no_preference_summary" = "தற்போது உங்கள் ஆரோக்ய சேது நிலையை அணுகும் வெளிப்புற பயன்பாடுகள் எதுவும் இல்லை.";
+
+"approvals_preference_summary" = "உங்கள் ஆரோக்ய சேது நிலையை மட்டுமே அணுகக்கூடிய வெளிப்புற பயன்பாடுகள்.";
+
+"blocked" = "தடுக்கப்பட்டது";
+
+"always_ask" = "ஒவ்வொரு முறையும் ஒப்புதல் கேட்கவும்";
+
+"of_request" = "%@ உள்ள %@ கோரிக்கைகள்";
+
+"auto_rejected" = "Auto Rejected";
+
+"report_abuse" = "முறைகேட்டைப் புகாரளிக்கவும்";
+
+"report_abuse_title" = "இந்த கோரிக்கையில் என்ன தவறு?";
+
+"report_abuse_detail" = "சிக்கலைப் புரிந்துகொள்ள எங்களுக்கு உதவுங்கள்";
+
+"didnt_initiate_request" = "நான் இந்த கோரிக்கையைத் தொடங்கவில்லை";
+
+"report" = "அறிக்கை";
+
+"suspicious_spam" = "இது சந்தேகத்திற்கிடமான அல்லது பொருத்தமற்றது";
+
+"other" = "மற்றவை";
+
+"block" = "முடக்கு";
+
+"approval_request_time_interval" = "இந்த கோரிக்கை %@ முதல் %@ வரை ";
+
+"approvals_preference" = "ஒப்புதல் விருப்பத்தேர்வுகள்";
+
+"error_select_option" = "ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்";
+
+"auto_approved" = "தானாக அங்கீகரிக்கப்பட்டது";
+
+"status_check" = "நிலை சோதனை";
+
+"status_check_detail" = "உங்கள் நெருங்கியவர்களின் ஆரோக்ய சேது நிலையை ஒரு இடத்திலிருந்து சரிபார்க்கவும்.";
+
+"add" = "சேர்க்கவும்";
+
+"keep_a_check_on_app" = "உங்கள் நெருங்கியவர்களின் ஆரோக்ய சேது நிலையை ஒரு இடத்திலிருந்து நீங்கள் சரிபார்க்கலாம்.";
+
+"add_account" = "கணக்கு சேர்க்கவும்";
+
+"want_app_to_keep_check" = "உங்கள் ஆரோக்ய சேது நிலையை மற்றவர்கள் சரிபார்க்க வேண்டுமா?";
+
+"generate_and_share" = "உங்கள் குறியீட்டை உருவாக்கி பகிரவும் ";
+
+"remove" = "அகற்றவும்";
+
+"registered_mobile_detail" = "உங்கள் ஆரோக்ய சேது நிலையைப் பகிர்ந்து கொள்ள விரும்பும் நபரின் மொபைல் எண்ணை உள்ளிடவும்";
+
+"generate_code" = "குறியீட்டை உருவாக்கவும்";
+
+"enter_code" = "குறியீட்டை உள்ளிடவும்";
+
+"code" = "குறியீடு";
+
+"get_code_detail" = "தனிப்பட்ட குறியீட்டைப் சரிபார்த்து மற்றும் சேர்க்கவும் கணக்கு வைத்திருப்பவரிடமிருந்து பெறுங்கள்";
+
+"verify_and_add" = "சரிபார்த்து சேர்க்கவும்";
+
+"share_your_code" = "உங்கள் குறியீட்டைப் பகிரவும்";
+
+"share_code_to_enable" = "உங்கள் நிலையை சரிபார்க்க தொலைபேசி எண்(%@) கொண்ட பயனரை இயக்க குறியீட்டைப் பகிரவும்.";
+
+"please_enter_a_valid_code" = "செல்லுபடியாகும் குறியீட்டை உள்ளிடவும்.";
+
+"share" = "பகிரவும்";
+
+"copy" = "நகலெடுக்கவும்";
+
+"code_valid_for" = "குறியீடு 45 நிமிடங்களுக்கு செல்லுபடியாகும்";
+
+"forty_five_min" = "45 நிமிடம்";
+
+"permission_access_preference_title" = "நிலையை அணுக அனுமதி";
+
+"permission_access_preference_summary" = "உங்கள் ஆரோக்ய சேது நிலையை அணுகக்கூடிய வெளிப்புற பயன்பாடுகள் அல்லது பயனர்கள்.";
+
+"apps" = "பயன்பாடுகள்";
+
+"users" = "பயனர்கள்";
+
+"approvals_no_user_preference_summary" = "உங்கள் ஆரோக்ய சேது நிலையை அணுகும் வெளிப்புற பயனர்கள் தற்போது இல்லை.";
+
+"approval_request_with_reason_title" = "%@ க்கு உங்கள் %@ நிலையை %@ கோரியுள்ளது";
+
+"approval_request_with_reason_and_time_title" = "%@ க்கு %@ முதல் %@ வரை உங்கள் %@ நிலையை %@ கோரியுள்ளது";

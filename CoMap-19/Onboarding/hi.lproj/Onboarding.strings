@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "bottom_description"; ObjectID = "Ywo-0w-Swe"; */
+"Ywo-0w-Swe.text" = "bottom_description";
+
+/* Class = "UILabel"; text = "top_description"; ObjectID = "gnH-YQ-FhZ"; */
+"gnH-YQ-FhZ.text" = "top_description";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "hOD-sK-g3m"; */
+"hOD-sK-g3m.normalTitle" = "Next";
